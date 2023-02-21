@@ -14,103 +14,227 @@ body
 	background-size: cover;
 	background-color: #36393f;
 	font-family: "JetBrains Mono", monospace;
-    font-size: 20px;
+    font-size: 1.5vw;
 	color: #ffffff;
 }
 
 a
 {
 	color: #ffffff;
-    text-decoration: none;
+	text-decoration: none;
 }
 
-.container
+#container
 {
-    position: absolute;
-    display: flex;
-    left: 50%;
-    transform: translate(-50%);
-    gap: 100px;
+	position: relative;
+	margin: auto auto;
+	width: 90%;
 }
 
-.box
+#web_name
 {
-    width: 300px;
-    height: 375px;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	font-size: 3vw;
+}
+
+#box-1
+{
     position: relative;
-    border-radius: 3%;
-    background: #ccc;
-    transition: 0.5s;
-    text-align: center;
+	height: 25.75vw;
+	background: #ccc;
+    border-radius: 15px 15px 15px 15px;
 }
 
-.box:hover
+#box-2
 {
-    transform: scale(1.05);
+    position: relative;
+	height: 22.5vw;
+	background: #ccc;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#box-3
+{
+    position: relative;
+	height: 5.5vw;
+	background: #ccc;
+    border-radius: 15px 15px 15px 15px;
 }
 
 .title
 {
-	font-size: 48px;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	font-size: 2.5vw;
 }
 
-.avatar
+#logo-1
 {
-    position: relative;
-    top: 10px;
-    width: 275px;
-    height: 275px;
-    border-radius: 3%;
+	position: relative;
+	top: 0.1vw;
+	left: 1vw;
+	width: 10.5vw;
+	height: 10.5vw;
+	border-radius: 15px 15px 15px 15px;
+	transition: 0.5s;
 }
 
-.box_title
+#logo-1:hover
 {
-    position: relative;
-    font-size: 32px;
-    top: 25px;
+    transform: scale(1.075);
 }
 
-.box_clone
+#logo-3
 {
-    width: 300px;
-    height: 375px;
-    top: 20px;
-    position: relative;
-    border-radius: 3%;
-    background: #ccc;
-    transition: 0.5s;
+	position: relative;
+	top: 0.75vw;
+	left: 1vw;
+	width: 4vw;
+	height: 4vw;
+	border-radius: 15px 15px 15px 15px;
+	transition: 0.5s;
 }
 
-.box_clone:hover
+#logo-3:hover
 {
-    transform: scale(1.05);
+    transform: scale(1.075);
 }
 
-.box_clone_title
+#logo-4
 {
-    position: relative;
-    font-size: 32px;
+	display: none;
 }
 
-.box_content
+.link-1
 {
-    text-decoration: underline;
+	text-decoration: underline;
+	text-decoration-color: #ffffff;
 }
 
-@media screen and (max-width: 750px)
+.link-3:hover
 {
-	.title
+	text-decoration: underline;
+	text-decoration-color: #ffffff;
+}
+
+#content
+{
+	display: flex;
+}
+
+#content-1
+{
+	position: absolute;
+	top: 4vw;
+	left: 12.5vw;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#content-2
+{
+	position: absolute;
+	top: 4vw;
+	left: 1.5vw;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#content-3
+{
+	position: absolute;
+	display: flex;
+	gap: 7.5vw;
+	top: 1.75vw;
+	left: 7.5vw;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	text-decoration: none;
+}
+
+@media screen and (max-width: 1100px)
+{
+	body
+	{
+		font-size: 16px;
+	}
+
+	#box-1
+	{
+		height: fit-content;
+	}
+
+	#box-2
+	{
+		height: fit-content;
+	}
+
+	#box-3
+	{
+		display: none;
+	}
+
+	#web_name
 	{
 		font-size: 32px;
 	}
 
-    .container
-    {
-        display: block;
-    }
+	.title
+	{
+		font-size: 24px;
+	}
 
-    .box_clone
-    {
-        top: -10px;
-    }
+	#logo-1
+	{
+		display: none;
+	}
+
+	#content-1
+	{
+		position: relative;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	#content-2
+	{
+		position: relative;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		padding-right: 16px;
+	}
+
+	#logo-4
+	{
+		display: flex;
+		width: 6vw;
+		height: 6vw;
+	}
 }
