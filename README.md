@@ -4,6 +4,12 @@
 
 <hr>
 
+<h3> <strong> Preview </strong> </h3>
+
+<img src="./assets/review.png">
+
+<hr>
+
 Visit the website <a href="https://caodoc.github.io"> here</a>.
 
 <p> About the website: </p>
