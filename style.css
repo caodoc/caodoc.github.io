@@ -12,7 +12,7 @@ body
 	background-attachment: fixed;
 	background-repeat: no-repeat; 
 	background-size: cover;
-	background-color: #36393f;
+	background-color: #3A3A40;
 	font-family: "JetBrains Mono", monospace;
     font-size: 1.5vw;
 	color: #ffffff;
@@ -46,7 +46,7 @@ a
 {
     position: relative;
 	height: 25.75vw;
-	background: #ccc;
+	background-color: rgba(0, 0, 0, 0.5);
     border-radius: 15px 15px 15px 15px;
 }
 
@@ -54,7 +54,7 @@ a
 {
     position: relative;
 	height: 22.5vw;
-	background: #ccc;
+	background-color: rgba(0, 0, 0, 0.5);
     border-radius: 15px 15px 15px 15px;
 }
 
@@ -62,7 +62,7 @@ a
 {
     position: relative;
 	height: 5.5vw;
-	background: #ccc;
+	background-color: rgba(0, 0, 0, 0.5);
     border-radius: 15px 15px 15px 15px;
 }
 
@@ -117,13 +117,13 @@ a
 .link-1
 {
 	text-decoration: underline;
-	text-decoration-color: #89b4fa;
+	text-decoration-color: #ffffff;
 }
 
 .link-3:hover
 {
 	text-decoration: underline;
-	text-decoration-color: #89b4fa;
+	text-decoration-color: #ffffff;
 }
 
 #content
