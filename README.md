@@ -1,21 +1,21 @@
 <div align="center">
-    <h3> <strong> Only Ducca - Ducca's Personal Page </strong> <h3>
+    <h2> <strong> Only Ducca - Ducca's Personal Page </strong> <h2>
 </div>
 
-<hr>
-
-<h3> <strong> Preview </strong> </h3>
+<h2> <strong> Preview </strong> </h2> 
 
 <img src="./assets/review.png">
 
 <hr>
 
-Visit the website <a href="https://caodoc.github.io"> here</a>.
+<h2> <strong> About </strong> </h2>
+
+<h3> <p> Visit the website <a href="https://caodoc.github.io"> here</a>. </p>
 
 <p> About the website: </p>
+
 <ul>
-    <li> <p> This is my first time writing a website using HTML and CSS. </p> </li>
-    <li> <p> Hosted on <a href="https://github.com"> Github</a>. </p> </li>
-    <li> <p> Usage: MIT License. </p> </li>
-    <li> <p> It's not that perfect like others but it's my time and what I have spent all my Tet for (instead of go out, touch grass and find a gf). </p> </li>
-</ul>
+    <li> <p> This is my first time writing a website using HTML, CSS and JS. </p> </li>
+    <li> <p> Hosted for free on <a href="https://github.com"> Github</a>. </p> </li>
+    <li> <p> Usage:  <a href="https://github.com/caodoc/caodoc.github.io/blob/main/LICENSE.txt"> MIT License</a>. </p> </li>
+</ul> </h3>
