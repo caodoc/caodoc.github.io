@@ -1,12 +1,8 @@
-<div align="center">
-    <h2> <strong> Only Ducca - Ducca's Personal Page </strong> <h2>
-</div>
+<h2 align="center"> <strong> Only Ducca - Ducca's Personal Page </strong> <h2>
 
 <h2> <strong> Preview </strong> </h2> 
 
 <img src="./assets/review.png">
-
-<hr>
 
 <h2> <strong> About </strong> </h2>
 
