@@ -1,9 +1,20 @@
-document.addEventListener("DOMContentLoaded", function(event) 
+window.addEventListener("load", function() 
 {
-    document.getElementById("loading").style.display = "flex";
+    var loading = document.getElementById("loading");
+    var content = document.getElementById("content");
+  
+    setTimeout(function() 
+    {
+        loading.style.display = "none";
+        content.style.display = "block";
+    }, 3000);
+  
+    document.addEventListener("readystatechange", function() 
+    {
+        if (document.readyState === "complete") 
+        {
+            loading.style.display = "none";
+            content.style.display = "block";
+        }
+    });
 });
-
-setTimeout(function() 
-{
-    document.getElementById("loading").style.display = "none";
-}, 3000);
