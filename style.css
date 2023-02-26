@@ -173,6 +173,11 @@ a
 	text-decoration: none;
 }
   
+#content-4
+{
+	display: none;
+}
+
 #loading 
 {
 	position: fixed;
@@ -230,6 +235,13 @@ a
 		display: none;
 	}
 
+	#logo-4
+	{
+		display: flex;
+		width: 32px;
+		height: 32px;
+	}
+
 	#content-1
 	{
 		position: relative;
@@ -251,10 +263,14 @@ a
 		padding-right: 16px;
 	}
 
-	#logo-4
+	#content-3
+	{
+		display: none;
+	}
+
+	#content-4
 	{
 		display: flex;
-		width: 32px;
-		height: 32px;
+		font-size: 12px;
 	}
 }
