@@ -7,7 +7,7 @@ window.addEventListener("load", function()
     {
         loading.style.display = "none";
         content.style.display = "block";
-    }, 3000);
+    }, 1500);
   
     document.addEventListener("readystatechange", function() 
     {
