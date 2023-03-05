@@ -1,3 +1,5 @@
+document.addEventListener('contextmenu', event => event.preventDefault());
+
 window.addEventListener("load", function() 
 {
     var loading = document.getElementById("loading");
