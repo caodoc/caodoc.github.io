@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="{{- site.Language.Lang -}}">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#000000">
+
+        {{ if .Site.Params.noindex }}
+        <meta name="robots" content="noindex">
+        <meta name="robots" content="nofollow">
+        {{ end }}
+
+        <title> !!! </title>
+
+        <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-16px.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png">
+
+        <link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png">
+
+        <link rel="stylesheet" href="{{ "css/404.css" | absURL }}">
+    </head>
+
+    <body>
+        <h1> Page Not Found! </h1>
+
+        <div>
+            <p> It seems like you got lost. </p>
+            <p>  </p>
+            <p> Please check the URL or go back to <a href="./index.html"> main page</a>.</p>
+        </div>
+    </body>
+
+    <script defer data-domain="caodoc.is-a.dev" src="https://analytics.is-a.dev/js/script.js"> </script>
+</html>

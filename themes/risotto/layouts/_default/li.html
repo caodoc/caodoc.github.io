@@ -1,0 +1,7 @@
+<li>
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    <br/>
+    <text style="color: #f38ba8"> Description: </text> {{ .Description }}
+    <br/>
+    <text style="color: #fab387"> Publish Date: </text> {{ .Date.Format "2 January 2006" }}
+</li>

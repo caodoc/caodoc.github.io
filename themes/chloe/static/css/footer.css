@@ -1,0 +1,9 @@
+.page-footer
+{
+    color: var(--off-fg);
+}
+
+.page-footer p
+{
+    margin: 0;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caodoc</title>
+    <link>https://caodoc.is-a.dev/</link>
+    <description>Recent content on caodoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://caodoc.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website&#39;s History</title>
+      <link>https://caodoc.is-a.dev/notes/website-history/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/notes/website-history/</guid>
+      <description>1.0: Release date: June 2023. This is the first version of my website, when I started to learn front-end development. I glad it worked when I saw it appeared on my phone. Go to page 2.0 &amp;amp; 3.0: Release date: July 2023. As a beginner, I wanted to practice more with more complexity, so I made 2.0 and 3.0. Struggled while trying to make it responsive on other devices. Go to page 4.</description>
+    </item>
+    <item>
+      <title>How to install Oh My Posh on Windows</title>
+      <link>https://caodoc.is-a.dev/notes/ohmyposh/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/notes/ohmyposh/</guid>
+      <description>About Oh My Posh Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.
+For example:
+Installation Oh My Posh: To download ohmyposh.exe and all the themes, open a powershell window and run:
+winget install JanDeDobbeleer.OhMyPosh -s winget Font: After that, you will need a suitable font. I recommend you should use Fire Code font.
+Setting up Font: You can change the font on the terminal by doing:</description>
+    </item>
+    <item>
+      <title>My PC&#39;s Configuration</title>
+      <link>https://caodoc.is-a.dev/notes/pc-configuration/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/notes/pc-configuration/</guid>
+      <description>Editor: Visual Studio Code Extensions: Theme: One Dark Pro Competitive Programming Helper: Runs many testcases at once. CodeSnap: Take beautiful screenshots of your code. Tools: Oh My Posh: Custom Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. Notepad++: Extra text editor. K-Lite Codec: Media player. Osu skin: Shiro Seijo </description>
+    </item>
+    <item>
+      <title>Repositories</title>
+      <link>https://caodoc.is-a.dev/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/repo/</guid>
+      <description>ASCII A front-end ASCII table.
+Calculator A front-end calculator.
+CIANS Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.
+Clock A front-end clock.
+Documents My collection of homework, althogrim, document.
+Miola A Discord python bot, made with the disnake library.
+Neon A website that my friend made for K12 NQD in THPTQG 2023. Good luck!
+PIANS Stands for Python In A Nutshell, where I keep Python school homework.</description>
+    </item>
+  </channel>
+</rss>

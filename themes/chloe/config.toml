@@ -1,0 +1,34 @@
+baseURL = "https://caodoc.is-a.dev"
+theme = "chloe"
+title = "caodoc"
+author = "caodoc"
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+# Auto detect
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.about]
+title = "@caodoc"
+description = "\"You&#39;re a wanderer, just like me.\""
+
+# Theme
+[params.theme]
+palette = "mocha"
+
+# Head Menu
+[menu]
+    [[menu.main]]
+        identifier = "repo"
+        name = "repo"
+        url = "/repo/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "notes"
+        name = "notes"
+        url = "/notes/"
+        weight = 20
