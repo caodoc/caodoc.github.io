@@ -188,7 +188,7 @@ hr
 
 hr:after
 {
-    content: "-----";
+    content: "----------";
     color: var(--muted);
 }
 

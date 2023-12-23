@@ -12,14 +12,6 @@
             </header>
 
             <section class="page-body">
-                {{ if .Params.description }}
-                    <text style="color: #f38ba8"> Description: </text> {{ .Params.description }}
-                {{ end }}
-                {{ if .Params.date }}
-                    <br/>
-                    <text style="color: #fab387"> Date: </text> {{ .Date.Format "2 January 2006" }}
-                    <hr>
-                {{ end }}
                 {{- block "main" . }}{{- end }}
             </section>
 
@@ -28,6 +20,4 @@
             </footer>
         </div>
     </body>
-
-    <script defer data-domain="caodoc.is-a.dev" src="https://analytics.is-a.dev/js/script.js"> </script>
 </html>
