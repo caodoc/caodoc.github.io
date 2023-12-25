@@ -1,5 +1,5 @@
 +++
-title = "2023 GitHub Unwrapped"
+title = "GitHub Unwrapped 2023"
 description = "My 2023 GitHub Unwrapped"
 date = "2023-12-25"
 +++
@@ -8,7 +8,7 @@ Created on [GitHub Unwrapped](https://githubunwrapped.com/), you can find anythi
 
 ## Result
 
-![](https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/2023-unwrapped-caodoc.mp4)
+{{<github-unwrapped-2023/result>}}
 
 ## Summary
 
@@ -35,4 +35,4 @@ Created on [GitHub Unwrapped](https://githubunwrapped.com/), you can find anythi
 
 > Anyways, Happy New Year 2024!
 
-![](https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/funky.mov)
+{{<github-unwrapped-2023/funky>}}
