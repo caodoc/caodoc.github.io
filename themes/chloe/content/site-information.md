@@ -2,7 +2,7 @@
 title = "About site"
 +++
 
-+ Hosting on [Github](https://pages.github.com).
++ Hosting on [GitHub](https://pages.github.com).
 + Static site generator: [hugo](https://gohugo.io).
 + Template: [risotto](https://github.com/joeroe/risotto) (modified).
 + Theme color: [catppuccin](https://github.com/catppuccin/catppuccin) (mocha).

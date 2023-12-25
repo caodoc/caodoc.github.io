@@ -3,7 +3,7 @@
 Is this your first time to this page? Don't worry, this is **caodoc** and welcome to ***caodoc's not a very complicated page*** for random things which I think are interesting.
 
 About myself, I'm a hobbyist programmer who wants to know more about modern technologies.
-Competitive programming & front-end development are two things I'm currently learning.
+I'm currently learning front-end development.
 
 # Projects
 I haven't contributed to any projects.. yet.
@@ -16,6 +16,6 @@ But I will, surely!
 
 # Other links
 
-+ All my repositories are on [Github](https://github.com/caodoc).
++ All my repositories are on [GitHub](https://github.com/caodoc).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
 + [About site](./site-information)

@@ -2,7 +2,7 @@
 title = "Repositories"
 +++
 
-> All my Github's repositories.
+> All my GitHub's repositories.
 
 ## [ASCII](https://caodoc.is-a.dev/ascii)
 

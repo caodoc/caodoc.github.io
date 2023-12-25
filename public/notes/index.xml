@@ -6,17 +6,21 @@
     <description>Recent content in Notes on caodoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://caodoc.is-a.dev/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 GitHub Unwrapped</title>
+      <link>https://caodoc.is-a.dev/notes/unwrapped-2023/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/notes/unwrapped-2023/</guid>
+      <description>Created on GitHub Unwrapped, you can find anything related there.&#xA;Result Summary Top language: C++ Javascript Python Issues: Opened: 1. Closed: 1. Others Contributions: 463. Most productive day: Thursday. Most productive hour: 1pm. Pull requests merged: 7. Repository Stared: 111. Many happened this year: my css skills improved, I have remade some basic front-end websites, etc.. Kind of a successful year for me I guess.&#xA;Anyways, Happy New Year 2024!</description>
+    </item>
     <item>
       <title>Reimu</title>
       <link>https://caodoc.is-a.dev/notes/reimu/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/notes/reimu/</guid>
-      <description>Yes, this is a shitpost (I have lost my mind after the final exam of the 12th grade first semester).
-About the gif below, I used media-to-ascii to convert the original to ascii video.
-I do not own any of these media, these were I found around the Internet.
-Reimu dancing Reimu hugging Reimu in the Winter Reimu eating Reimu wishing you a nice day! </description>
+      <description>Yes, this is a shitpost (I have lost my mind after the final exams of the 12th grade first semester).&#xA;About the gif below, I used media-to-ascii to convert the original to ascii video.&#xA;⚠ Attention: I do not own any of these media, these were I found around the Internet.&#xA;Me during the exams: Reimu dancing Reimu hugging Reimu in the Winter Reimu eating Reimu wishing you a nice day!</description>
     </item>
     <item>
       <title>Website&#39;s History</title>
@@ -30,11 +34,7 @@ Reimu dancing Reimu hugging Reimu in the Winter Reimu eating Reimu wishing you a
       <link>https://caodoc.is-a.dev/notes/ohmyposh/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/notes/ohmyposh/</guid>
-      <description>About Oh My Posh Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.
-For example:
-Installation Oh My Posh: To download ohmyposh.exe and all the themes, open a powershell window and run:
-winget install JanDeDobbeleer.OhMyPosh -s winget Font: After that, you will need a suitable font. I recommend you should use Fire Code font.
-Setting up Font: You can change the font on the terminal by doing:</description>
+      <description>About Oh My Posh Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.&#xA;For example:&#xA;Installation Oh My Posh: To download ohmyposh.exe and all the themes, open a powershell window and run:&#xA;winget install JanDeDobbeleer.OhMyPosh -s winget Font: After that, you will need a suitable font. I recommend you should use Fire Code font.&#xA;Setting up Font: You can change the font on the terminal by doing:</description>
     </item>
     <item>
       <title>My PC&#39;s Configuration</title>
