@@ -6,8 +6,7 @@ About myself, I'm a hobbyist programmer who wants to know more about modern tech
 I'm currently learning front-end development.
 
 # Projects
-I haven't contributed to any projects.. yet.
-But I will, surely!
+I haven't contributed to any projects.. yet. But I will, surely!
 
 # Contact
 
@@ -18,4 +17,4 @@ But I will, surely!
 
 + All my repositories are on [GitHub](https://github.com/caodoc).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
-+ [About site](./site-information)
++ [About this site](./site-information).

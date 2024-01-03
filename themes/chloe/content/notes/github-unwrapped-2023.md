@@ -1,6 +1,6 @@
 +++
 title = "GitHub Unwrapped 2023"
-description = "My 2023 GitHub Unwrapped"
+description = "My 2023 GitHub Unwrapped."
 date = "2023-12-25"
 +++
 
@@ -8,7 +8,7 @@ Created on [GitHub Unwrapped](https://githubunwrapped.com/), you can find anythi
 
 ## Result
 
-{{<github-unwrapped-2023/result>}}
+{{< github-unwrapped-2023/result >}}
 
 ## Summary
 
@@ -30,9 +30,9 @@ Created on [GitHub Unwrapped](https://githubunwrapped.com/), you can find anythi
 * Pull requests merged: 7.
 * Repository Stared: 111.
 
-> Many happened this year: my css skills improved, I have remade some basic front-end websites, etc..
+> Many happened this year: my coding skills improved, I have remade some basic front-end websites, etc..
 > Kind of a successful year for me I guess.
 
 > Anyways, Happy New Year 2024!
 
-{{<github-unwrapped-2023/funky>}}
+{{< github-unwrapped-2023/funky >}}

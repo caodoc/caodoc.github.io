@@ -1,6 +1,6 @@
 +++
 title = "Reimu"
-description = "Reimu In A Nutshell"
+description = "Reimu In A Nutshell."
 date = "2023-12-24"
 +++
 
@@ -11,7 +11,7 @@ About the gif below, I used [media-to-ascii](https://github.com/spoorn/media-to-
 > ⚠ Attention: I do not own any of these media, these were I found around the Internet.
 
 ## Me during the exams:
-{{<reimu/the-test>}}
+{{< reimu/the-test >}}
 
 ## Reimu dancing
 ![](https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-dancing.gif)

@@ -1,28 +1,34 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#000000">
 
-<meta name="title" content="caodoc">
-<meta name="author" content="caodoc">
-{{ with .Site.Params.about }}<meta name="description" content="{{ .description }}">{{ end }}
-<meta itemprop="name" content="caodoc">
-{{ with .Site.Params.about }}<meta itemprop="description" content="{{ .description }}">{{ end }}
-<meta itemprop="image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
+{{ with .Site.Params.Theme}}
+<meta name="theme-color" content="{{ .ThemeColor }}">
+{{ end }}
 
-<meta name="twitter:title" content="caodoc">
-<meta name="twitter:creator" content="caodoc">
-{{ with .Site.Params.about }}<meta name="twitter:description" content="{{ .description }}">{{ end }}
+{{ with .Site.Params.About }}
+<meta name="title" content="{{ .Title }}">
+<meta name="author" content="{{ .Author }}">
+<meta name="description" content="{{ .Description }}">
+
+<meta itemprop="name" content="{{ .Title }}">
+<meta itemprop="description" content="{{ .Description }}">
+<meta itemprop="image" content="{{ .ImageURL }}">
+
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:creator" content="{{ .Author }}">
+<meta name="twitter:description" content="{{ .Description }}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
-<meta name="twitter:url" content="https://caodoc.is-a.dev/">
+<meta name="twitter:image" content="{{ .ImageURL }}">
+<meta name="twitter:url" content="{{ .BaseURL }}">
 
-<meta property="og:title" content="caodoc">
+<meta property="og:title" content="{{ .Title }}">
 <meta property="og:type" content="website">
-{{ with .Site.Params.about }}<meta property="og:description" content="{{ .description }}">{{ end }}
-<meta property="og:image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
-<meta property="og:url" content="https://caodoc.is-a.dev/">
+<meta property="og:description" content="{{ .Description }}">
+<meta property="og:image" content="{{ .ImageURL }}">
+<meta property="og:url" content="{{ .BaseURL }}">
+{{ end }}
 
-{{ if .Site.Params.noindex }}
+{{ if .Site.Params.Noindex }}
 <meta name="robots" content="noindex">
 <meta name="robots" content="nofollow">
 {{ end }}
@@ -35,5 +41,5 @@
 <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png">
 <link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png">
 
-<link rel="stylesheet" href="{{ printf "css/palettes/%s.css" (.Site.Params.theme.palette | default "tokyo-night-dark") | absURL }}">
+<link rel="stylesheet" href="{{ printf "css/palettes/%s.css" (.Site.Params.Theme.Palette | default "tokyo-night-dark") | absURL }}">
 <link rel="stylesheet" href="{{ "css/chloe.css" | absURL }}">

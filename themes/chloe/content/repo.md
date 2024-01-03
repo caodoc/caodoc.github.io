@@ -2,13 +2,16 @@
 title = "Repositories"
 +++
 
-> All my GitHub's repositories.
+> All my projects are uploaded into GitHub. You can check them all out here.
 
-## [ASCII](https://caodoc.is-a.dev/ascii)
+## [ASCII](https://github.com/caodoc/ascii)
 
 A front-end ASCII table.
 
-## [Calculator](https://caodoc.is-a.dev/calculator)
+## [caodoc.github.io](https://github.com/caodoc/caodoc.github.io)
+Source code of the current page you are visiting.
+
+## [Calculator](https://github.com/caodoc/calculator)
 
 A front-end calculator.
 
@@ -16,7 +19,7 @@ A front-end calculator.
 
 Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.
 
-## [Clock](https://caodoc.is-a.dev/clock)
+## [Clock](https://github.com/caodoc/clock)
 
 A front-end clock.
 
@@ -28,7 +31,7 @@ My collection of homework, althogrim, document.
 
 A Discord python bot, made with the [disnake](https://docs.disnake.dev/en/stable/) library.
 
-## [Neon](https://caodoc.is-a.dev/neon)
+## [Neon](https://github.com/caodoc/neon)
 
 A website that my friend made for K12 NQD in THPTQG 2023. Good luck!
 
@@ -40,6 +43,6 @@ Stands for Python In A Nutshell, where I keep Python school homework.
 
 My first game, created with the [pygame](https://www.pygame.org/) library. Arts made by me.
 
-## [Weather](https://caodoc.is-a.dev/weather)
+## [Weather](https://github.com/caodoc/weather)
 
 A front-end weather forecast.

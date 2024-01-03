@@ -1,34 +1,38 @@
-baseURL = "https://caodoc.is-a.dev"
-theme = "chloe"
-title = "caodoc"
-author = "caodoc"
-languageCode = "en"
-DefaultContentLanguage = "en"
-
-# Auto detect
+# Default
+defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 
 [params]
 noindex = false
 
-[params.about]
-title = "@caodoc"
+[params.About]
+title = "caodoc"
+author = "caodoc"
 description = "\"You&#39;re a wanderer, just like me.\""
+source = "https://github.com/caodoc"
+baseURL = "https://caodoc.is-a.dev"
+imageURL = "https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png"
 
-# Theme
-[params.theme]
+[params.Theme]
+themeColor = "#000000"
 palette = "mocha"
 
 # Head Menu
 [menu]
     [[menu.main]]
-        identifier = "repo"
-        name = "repo"
-        url = "/repo/"
-        weight = 10
-
-    [[menu.main]]
         identifier = "notes"
         name = "notes"
         url = "/notes/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "repo"
+        name = "repo"
+        url = "/repo/"
         weight = 20
+
+    [[menu.main]]
+        identifier = "stuff"
+        name = "stuff"
+        url = "/stuff/"
+        weight = 30
