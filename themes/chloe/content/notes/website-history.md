@@ -1,7 +1,7 @@
 +++
 title = "Website's History"
 date = "2023-10-21"
-description = "Thoughts on my website's old versions."
+description = "My thoughts on my website's older versions."
 +++
 
 ## 1.0:

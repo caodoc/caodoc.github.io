@@ -18,8 +18,9 @@
         <ul>
             <p> <li> Temperature:
             <text id="box_temperature">
-                <text id="daily_max_temperature" align="left"> </text>
-                <text id="daily_min_temperature" align="right"> </text>
+                Min: <text id="daily_min_temperature"> </text>
+                -
+                Max: <text id="daily_max_temperature"> </text>
             </text> </li> </p>
             <p> <li id="sunrise"> Sunrise: </li> </p>
             <p> <li id="sunset"> Sunset: </li> </p>
@@ -56,16 +57,16 @@
 
                     const unit_temperature = "°C";
                     const unit_windspeed = "km/h";
-                    document.getElementById("current_temperature").innerHTML = `Tempature: ${data.current_weather.temperature}${unit_temperature}`;
-                    document.getElementById("current_windspeed").innerHTML = `Wind Speed: ${data.current_weather.windspeed}${unit_windspeed}`;
-                    document.getElementById("daily_max_temperature").innerHTML = `${data.daily.temperature_2m_max}${unit_temperature}`;
-                    document.getElementById("daily_min_temperature").innerHTML = ` - ${data.daily.temperature_2m_min}${unit_temperature}`;
+                    document.getElementById("current_temperature").innerHTML = `Tempature: ${data.current_weather.temperature}${unit_temperature}.`;
+                    document.getElementById("current_windspeed").innerHTML = `Wind Speed: ${data.current_weather.windspeed}${unit_windspeed}.`;
+                    document.getElementById("daily_max_temperature").innerHTML = `${data.daily.temperature_2m_max}${unit_temperature}.`;
+                    document.getElementById("daily_min_temperature").innerHTML = `${data.daily.temperature_2m_min}${unit_temperature}`;
                     var time_sunrise = data.daily.sunrise.toString();
                     document.getElementById("sunrise").innerHTML = `Sunrise: ${time_sunrise.slice(11)}a.m.`;
                     var time_sunset = data.daily.sunset.toString();
                     document.getElementById("sunset").innerHTML = `Sunset: ${time_sunset.slice(11)}p.m.`;
-                    document.getElementById("max_windspeed").innerHTML = `Max Wind Speed: ${data.daily.windspeed_10m_max}${unit_windspeed}`;
-                    document.getElementById("timezone").innerHTML = `Timezone: ${data.timezone} (UTC${data.timezone_abbreviation})`;
+                    document.getElementById("max_windspeed").innerHTML = `Max Wind Speed: ${data.daily.windspeed_10m_max}${unit_windspeed}.`;
+                    document.getElementById("timezone").innerHTML = `Timezone: ${data.timezone} (UTC${data.timezone_abbreviation}).`;
                     document.getElementById("warning").innerHTML = "";
                 })
                 .catch(error =>
