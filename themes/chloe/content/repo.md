@@ -8,12 +8,17 @@ title = "Repositories"
 
 A front-end ASCII table.
 
-## [caodoc.github.io](https://github.com/caodoc/caodoc.github.io)
-Source code of the current page you are visiting.
-
 ## [Calculator](https://github.com/caodoc/calculator)
 
 A front-end calculator.
+
+## [Code Snippets](https://github.com/caodoc/code-snippets)
+
+My code snippets to make coding easier & faster.
+
+## [caodoc.github.io](https://github.com/caodoc/caodoc.github.io)
+
+Source code of the current page you are visiting.
 
 ## [CIANS](https://github.com/caodoc/CIANS)
 
@@ -25,7 +30,7 @@ A front-end clock.
 
 ## [Documents](https://github.com/caodoc/Documents)
 
-My collection of homework, althogrim, document.
+My documents collection.
 
 ## [Miola](https://github.com/caodoc/Miola-DiscordBot)
 
@@ -33,7 +38,7 @@ A Discord python bot, made with the [disnake](https://docs.disnake.dev/en/stable
 
 ## [Neon](https://github.com/caodoc/neon)
 
-A website that my friend made for K12 NQD in THPTQG 2023. Good luck!
+A good luck website me and my friend made for K12 NQD on THPTQG 2023. All the best!
 
 ## [PIANS](https://github.com/caodoc/PIANS)
 
@@ -41,7 +46,7 @@ Stands for Python In A Nutshell, where I keep Python school homework.
 
 ## [The Ducc: Original](https://github.com/caodoc/TheDucc-Original)
 
-My first game, created with the [pygame](https://www.pygame.org/) library. Arts made by me.
+My first game, created with the [pygame](https://www.pygame.org/) library. Arts were made by me.
 
 ## [Weather](https://github.com/caodoc/weather)
 

@@ -2,7 +2,7 @@
 title = "Site Informations"
 +++
 
-+ Avatar by **たぬま** on [pixiv](https://www.pixiv.net/en/users/9675329).
++ Avatar by **千道センリ** on [pixiv](https://www.pixiv.net/en/users/36388895).
 + Hosting on [GitHub](https://pages.github.com).
 + Static site generator: [hugo](https://gohugo.io).
 + Template: [risotto](https://github.com/joeroe/risotto) (modified).

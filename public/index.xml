@@ -48,14 +48,14 @@
       <link>https://caodoc.is-a.dev/repo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/repo/</guid>
-      <description>All my projects are uploaded into GitHub. You can check them all out here.&#xA;ASCII A front-end ASCII table.&#xA;caodoc.github.io Source code of the current page you are visiting.&#xA;Calculator A front-end calculator.&#xA;CIANS Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Clock A front-end clock.&#xA;Documents My collection of homework, althogrim, document.&#xA;Miola A Discord python bot, made with the disnake library.</description>
+      <description>All my projects are uploaded into GitHub. You can check them all out here.&#xA;ASCII A front-end ASCII table.&#xA;Calculator A front-end calculator.&#xA;Code Snippets My code snippets to make coding easier &amp;amp; faster.&#xA;caodoc.github.io Source code of the current page you are visiting.&#xA;CIANS Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Clock A front-end clock.</description>
     </item>
     <item>
       <title>Site Informations</title>
       <link>https://caodoc.is-a.dev/site-information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/site-information/</guid>
-      <description> Avatar by たぬま on pixiv. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Theme color: catppuccin (mocha). Domain by: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
+      <description> Avatar by 千道センリ on pixiv. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Theme color: catppuccin (mocha). Domain by: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
     </item>
     <item>
       <title>Stuff</title>
