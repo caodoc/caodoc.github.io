@@ -33,7 +33,7 @@
 
 
 
-<title> Reimu &ndash; caodoc </title>
+<title> How to Install Oh My Posh on Windows &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -54,15 +54,15 @@
         
         
         <li class="main-nav-list">
-            <a class="main-nav-item" href="https://caodoc.is-a.dev/notes/" title=""> notes </a>
+            <a class="main-nav-item" href="https://caodoc.is-a.dev/n/" title=""> notes </a>
         </li>
         
         <li class="main-nav-list">
-            <a class="main-nav-item" href="https://caodoc.is-a.dev/repo/" title=""> repo </a>
+            <a class="main-nav-item" href="https://caodoc.is-a.dev/r/" title=""> repo </a>
         </li>
         
         <li class="main-nav-list">
-            <a class="main-nav-item" href="https://caodoc.is-a.dev/stuff/" title=""> stuff </a>
+            <a class="main-nav-item" href="https://caodoc.is-a.dev/s/" title=""> stuff </a>
         </li>
         
     </ul>
@@ -70,29 +70,63 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Reimu</h1>
+        <h1>How to install Oh My Posh on Windows</h1>
     </header>
     
     <div class="content-body">
-        <p>Yes, this is a shitpost (I have lost my mind after the final exams of the 12th grade first semester).</p>
-<p>About the gif below, I used <a href="https://github.com/spoorn/media-to-ascii">media-to-ascii</a> to convert the <a href="https://media.tenor.com/UqipMl_oBsoAAAPo/fumo-fumo-meme.mp4">original</a> to ascii video.</p>
+        <h2 id="about-oh-my-posh">About Oh My Posh</h2>
+<p>Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.</p>
+<p>For example:</p>
+<p><img src="https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/website/static/img/accordeon.png" alt="Example"></p>
+<h2 id="installation">Installation</h2>
+<ol>
+<li>Oh My Posh:</li>
+</ol>
+<p>To download <strong>ohmyposh.exe</strong> and all the <a href="https://ohmyposh.dev/docs/themes">themes</a>, open a powershell window and run:</p>
+<pre tabindex="0"><code>winget install JanDeDobbeleer.OhMyPosh -s winget
+</code></pre><ol start="2">
+<li>Font:</li>
+</ol>
+<p>After that, you will need a suitable font. I recommend you should use <a href="https://github.com/tonsky/FiraCode">Fire Code</a> font.</p>
+<h2 id="setting-up">Setting up</h2>
+<ol>
+<li>Font:</li>
+</ol>
+<p>You can change the font on the terminal by doing:</p>
 <blockquote>
-<p>⚠ Attention: I do not own any of these media, these were I found around the Internet.</p>
+<p>Setting -&gt; Default -&gt; Appearance -&gt; Text -&gt; Font face</p>
 </blockquote>
-<h2 id="me-during-the-exams">Me during the exams:</h2>
-<video controls>
-    <source src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/the-test.mp4">
-</video>
-<h2 id="reimu-dancing">Reimu dancing</h2>
-<p><img src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-dancing.gif" alt=""></p>
-<h2 id="reimu-hugging">Reimu hugging</h2>
-<p><img src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-hugging.png" alt=""></p>
-<h2 id="reimu-in-the-winter">Reimu in the Winter</h2>
-<p><img src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-winter.png" alt=""></p>
-<h2 id="reimu-eating">Reimu eating</h2>
-<p><img src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-eating.gif" alt=""></p>
-<h2 id="reimu-wishing-you-a-nice-day">Reimu wishing you a nice day!</h2>
-<p><img src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-wishing-you.png" alt=""></p>
+<ol start="2">
+<li>New profile:</li>
+</ol>
+<ul>
+<li>Create a new profile:</li>
+</ul>
+<pre tabindex="0"><code>New-Item -Path $PROFILE -Type File -Force
+</code></pre><p>This will create a new profile in the <a href="">Documents\WindowsPowerShell</a> folder.</p>
+<ul>
+<li>Note: you can open new profile file by running</li>
+</ul>
+<pre tabindex="0"><code>notepad $PROFILE
+</code></pre><ul>
+<li>Add configuration:</li>
+</ul>
+<pre tabindex="0"><code>oh-my-posh.exe init pwsh --config &#34;Path to your theme&#34; | Invoke-Expression
+</code></pre><ul>
+<li>
+<p>Replace <a href="">Path to your theme</a> with theme location.</p>
+</li>
+<li>
+<p>Theme folder: <a href="">%USERNAME%\AppData\Local\Programs\oh-my-posh\themes</a> (<a href="https://ohmyposh.dev/docs/themes">Theme previews</a>)</p>
+</li>
+</ul>
+<p>For example:</p>
+<pre tabindex="0"><code>oh-my-posh.exe init pwsh --config &#34;A:\Users\ADMIN\AppData\Local\Programs\oh-my-posh\themes\uew.omp.json&#34; | Invoke-Expression
+</code></pre><p>Save &amp; re-open terminal. If everything works fine, you will see the change applied.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>That is all you need to install Oh My Posh on Windows.</p>
+<p>If you have any errors, you can ask me through my social media accounts or open an issue on <a href="https://github.com/jandedobbeleer/oh-my-posh">Oh My Posh Github</a>.</p>
+<p>Oh My Posh official website: <a href="https://ohmyposh.dev/">ohmyposh.dev</a></p>
 
     </div>
     <footer class="content-footer"></footer>

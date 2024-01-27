@@ -8,12 +8,14 @@ I'm currently learning front-end development.
 You may find me somewhere around GitHub & Discord.
 
 # Projects
-I haven't contributed to any projects.. yet. But I will, surely!
+I haven't contributed to any projects.. yet.
+
+But I will, surely!
 
 # Contact
 
 + GitHub: [caodoc](https://github.com/caodoc).
-+ A member of [exozy](https://exozy.me): caodoc@exozy.me
++ A member of [exozy](https://exozy.me): [@caodoc:exozy.me]() on matrix.
 + Discord: [caodoc](https://discord.com/users/800173074166710282) (faster response).
 
 # Other links

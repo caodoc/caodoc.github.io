@@ -22,17 +22,17 @@ palette = "mocha"
     [[menu.main]]
         identifier = "notes"
         name = "notes"
-        url = "/notes/"
+        url = "/n/"
         weight = 10
 
     [[menu.main]]
         identifier = "repo"
         name = "repo"
-        url = "/repo/"
+        url = "/r/"
         weight = 20
 
     [[menu.main]]
         identifier = "stuff"
         name = "stuff"
-        url = "/stuff/"
+        url = "/s/"
         weight = 30

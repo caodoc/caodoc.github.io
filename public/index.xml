@@ -10,44 +10,44 @@
     <atom:link href="https://caodoc.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitHub Unwrapped 2023</title>
-      <link>https://caodoc.is-a.dev/notes/github-unwrapped-2023/</link>
+      <link>https://caodoc.is-a.dev/n/github-unwrapped-2023/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/notes/github-unwrapped-2023/</guid>
+      <guid>https://caodoc.is-a.dev/n/github-unwrapped-2023/</guid>
       <description>Created on GitHub Unwrapped, you can find anything related there.&#xA;Result Summary Top language: C++ Javascript Python Issues: Opened: 1. Closed: 1. Others Contributions: 463. Most productive day: Thursday. Most productive hour: 1pm. Pull requests merged: 7. Repository Stared: 111. Many happened this year: my coding skills improved, I have remade some basic front-end websites, etc.. Kind of a successful year for me I guess.&#xA;Anyways, Happy New Year 2024!</description>
     </item>
     <item>
       <title>Reimu</title>
-      <link>https://caodoc.is-a.dev/notes/reimu/</link>
+      <link>https://caodoc.is-a.dev/n/reimu/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/notes/reimu/</guid>
+      <guid>https://caodoc.is-a.dev/n/reimu/</guid>
       <description>Yes, this is a shitpost (I have lost my mind after the final exams of the 12th grade first semester).&#xA;About the gif below, I used media-to-ascii to convert the original to ascii video.&#xA;⚠ Attention: I do not own any of these media, these were I found around the Internet.&#xA;Me during the exams: Reimu dancing Reimu hugging Reimu in the Winter Reimu eating Reimu wishing you a nice day!</description>
     </item>
     <item>
       <title>Website&#39;s History</title>
-      <link>https://caodoc.is-a.dev/notes/website-history/</link>
+      <link>https://caodoc.is-a.dev/n/website-history/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/notes/website-history/</guid>
+      <guid>https://caodoc.is-a.dev/n/website-history/</guid>
       <description>1.0: Release date: June 2023. This is the first version of my website, when I started to learn front-end development. I glad it worked when I saw it appeared on my phone. Go to page 2.0 &amp;amp; 3.0: Release date: July 2023. As a beginner, I wanted to practice more with more complexity, so I made 2.0 and 3.0. Struggled while trying to make it responsive on other devices. Go to page 4.</description>
     </item>
     <item>
       <title>How to install Oh My Posh on Windows</title>
-      <link>https://caodoc.is-a.dev/notes/ohmyposh/</link>
+      <link>https://caodoc.is-a.dev/n/ohmyposh/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/notes/ohmyposh/</guid>
+      <guid>https://caodoc.is-a.dev/n/ohmyposh/</guid>
       <description>About Oh My Posh Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.&#xA;For example:&#xA;Installation Oh My Posh: To download ohmyposh.exe and all the themes, open a powershell window and run:&#xA;winget install JanDeDobbeleer.OhMyPosh -s winget Font: After that, you will need a suitable font. I recommend you should use Fire Code font.&#xA;Setting up Font: You can change the font on the terminal by doing:</description>
     </item>
     <item>
       <title>My PC&#39;s Configuration</title>
-      <link>https://caodoc.is-a.dev/notes/pc-configuration/</link>
+      <link>https://caodoc.is-a.dev/n/pc-configuration/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/notes/pc-configuration/</guid>
-      <description>Editor: Visual Studio Code Extensions: Theme: One Dark Pro Competitive Programming Helper: Runs many testcases at once. CodeSnap: Take beautiful screenshots of your code. Tools: Oh My Posh: Custom Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. Notepad++: Extra text editor. K-Lite Codec: Media player. Osu skin: Shiro Seijo </description>
+      <guid>https://caodoc.is-a.dev/n/pc-configuration/</guid>
+      <description>Faster Windows: Tweak Windows: Winaero Tweaker. Remove bloatware: Bloatbox. Editor: Visual Studio Code with Theme: One Dark Pro. Extensions: Competitive Programming Helper, CodeSnap, Better Comments. Apps: Crystal Disk Info: A SSD/HDD utility software. Everything: Better files/folders search. Notepad++: Extra text editor. K-Lite Codec: Media player. Oh My Posh: Customize Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. Osu skin: Shiro Seijo </description>
     </item>
     <item>
       <title>Repositories</title>
-      <link>https://caodoc.is-a.dev/repo/</link>
+      <link>https://caodoc.is-a.dev/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/repo/</guid>
+      <guid>https://caodoc.is-a.dev/r/</guid>
       <description>All my projects are uploaded into GitHub. You can check them all out here.&#xA;ASCII A front-end ASCII table.&#xA;Calculator A front-end calculator.&#xA;Code Snippets My code snippets to make coding easier &amp;amp; faster.&#xA;caodoc.github.io Source code of the current page you are visiting.&#xA;CIANS Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Clock A front-end clock.</description>
     </item>
     <item>
@@ -59,10 +59,10 @@
     </item>
     <item>
       <title>Stuff</title>
-      <link>https://caodoc.is-a.dev/stuff/</link>
+      <link>https://caodoc.is-a.dev/s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/stuff/</guid>
-      <description>Easy access to some of my front-end projects.&#xA;ASCII table Dec Char 0 NUL 1 SOH 2 STX 3 ETX 4 EOT 5 ENQ 6 ACK 7 BEL 8 BS 9 HT 10 LF 11 VT 12 FF 13 CR 14 SO 15 SI 16 DLE 17 DC1 18 DC2 19 DC3 20 DC4 21 NAK 22 SYN 23 ETB 24 CAN 25 EM 26 SUB 27 ESC 28 FS 29 GS 30 RS 31 US 32 33 !</description>
+      <guid>https://caodoc.is-a.dev/s/</guid>
+      <description> Easy access to some of my front-end projects.&#xA;Weather forecast Submit ⚠ Warning: Result: Current: Temperature: Wind Speed: Description: Daily: Temperature:&#xD;Min: -&#xD;Max: Sunrise: Sunset: Max Wind Speed: Timezone: </description>
     </item>
   </channel>
 </rss>

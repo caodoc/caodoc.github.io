@@ -1,3 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="theme-color" content="#000000">
+
+
+
+<meta name="title" content="caodoc">
+<meta name="author" content="caodoc">
+<meta name="description" content="&#34;You&amp;#39;re a wanderer, just like me.&#34;">
+
+<meta itemprop="name" content="caodoc">
+<meta itemprop="description" content="&#34;You&amp;#39;re a wanderer, just like me.&#34;">
+<meta itemprop="image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
+
+<meta name="twitter:title" content="caodoc">
+<meta name="twitter:creator" content="caodoc">
+<meta name="twitter:description" content="&#34;You&amp;#39;re a wanderer, just like me.&#34;">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
+<meta name="twitter:url" content="https://caodoc.is-a.dev">
+
+<meta property="og:title" content="caodoc">
+<meta property="og:type" content="website">
+<meta property="og:description" content="&#34;You&amp;#39;re a wanderer, just like me.&#34;">
+<meta property="og:image" content="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png">
+<meta property="og:url" content="https://caodoc.is-a.dev">
+
+
+
+
+<title> Stuff &ndash; caodoc </title>
+
+<link rel="canonical" href="https://caodoc.is-a.dev">
+
+<link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-16px.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png">
+
+<link rel="stylesheet" href="https://caodoc.is-a.dev/css/palettes/mocha.css">
+<link rel="stylesheet" href="https://caodoc.is-a.dev/css/chloe.css"></head>
+
+    <body>
+        <div class="page">
+            <header class="page-header"><nav class="page-nav main-nav">
+    <ul>
+        <h1 class="page-logo">
+            <a href="https://caodoc.is-a.dev" class="page-logo-inner">caodoc</a>
+        </h1>
+        
+        
+        <li class="main-nav-list">
+            <a class="main-nav-item" href="https://caodoc.is-a.dev/n/" title=""> notes </a>
+        </li>
+        
+        <li class="main-nav-list">
+            <a class="main-nav-item" href="https://caodoc.is-a.dev/r/" title=""> repo </a>
+        </li>
+        
+        <li class="main-nav-list">
+            <a class="main-nav-item active" href="https://caodoc.is-a.dev/s/" title=""> stuff </a>
+        </li>
+        
+    </ul>
+</nav></header>
+
+            <section class="page-body">
+    <header class="content-header">
+        <h1>Stuff</h1>
+    </header>
+    
+    <div class="content-body">
+        <blockquote>
+<p>Easy access to some of my front-end projects.</p>
+</blockquote>
 <details>
     <summary> <b> Weather forecast </b> </summary>
 
@@ -37,7 +116,7 @@
 
     function WeatherCheck(city_name)
     {
-        //https://openweathermap.org
+        
         fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city_name}&appid=${OPENWEATHER_API_KEY}`)
             .then(response => response.json())
             .then(data =>
@@ -48,7 +127,7 @@
 
                 document.getElementById("current_description").innerHTML = `Description: ${data.weather[0].description}.`;
                 
-                //https://open-meteo.com/en/docs
+                
                 fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&daily=weathercode,temperature_2m_max,temperature_2m_min,sunrise,sunset,rain_sum,windspeed_10m_max&current_weather=true&timezone=auto&forecast_days=1`)
                 .then(response => response.json())
                 .then(data =>
@@ -101,7 +180,7 @@
         }
     }
 
-    //Get city input
+    
     document.getElementById("submit").addEventListener("click", () =>
     {
         const city_name = document.getElementById("city_name").value;
@@ -117,68 +196,20 @@
         }
     });
 
-    /*          ATTENTION: Won't work on Github, Vercel because they block http request!!!
+    
 
-    //Get current IP Address
-    let ip = ""
-    fetch('https://api.ipify.org?format=json')
-        .then(response => response.json())
-        .then(data =>
-        {
-            ip = data.ip;
-            console.log(`Current IP address: ${ip}`);
-        })
-        .catch(error =>
-        {
-            console.error("An error occurred while fetching the IP address: ", error);
-        });
-
-    // Convert IP address to latitude & longitude
-    fetch(`http://ip-api.com/json/${ip}`)
-        .then(response => response.json())
-        .then(data =>
-        {
-            const lat = data.lat;
-            const lng = data.lon;
-            const unit_temperature = "°C";
-            const unit_windspeed = "km/h";
-            console.log(`Latitude: ${lat}`);
-            console.log(`Longitude: ${lng}`);
-            //https://open-meteo.com/en/docs
-            fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&daily=weathercode,temperature_2m_max,temperature_2m_min,sunrise,sunset,rain_sum,windspeed_10m_max&current_weather=true&timezone=auto&forecast_days=1`)
-                .then(response => response.json())
-                .then(data =>
-                {
-                    console.log(data);
-                    var daytime = data.current_weather.time.toString();
-                    daytime = daytime.slice(11, 13);
-                    if (daytime >= 0 && daytime <= 12)
-                    {
-                        document.getElementById("header").innerHTML += "☀️";
-                    }
-                    else
-                    {
-                        document.getElementById("header").innerHTML += "🌙";
-                    }
-                    document.getElementById("current_temperature").innerHTML += data.current_weather.temperature + unit_temperature;
-                    document.getElementById("current_windspeed").innerHTML += data.current_weather.windspeed + unit_windspeed;
-                    document.getElementById("daily_max_temperature").innerHTML += data.daily.temperature_2m_max + unit_temperature;
-                    document.getElementById("daily_min_temperature").innerHTML += data.daily.temperature_2m_min + unit_temperature;
-                    var time_sunrise = data.daily.sunrise.toString();
-                    document.getElementById("sunrise").innerHTML += time_sunrise.slice(11) + "a.m.";
-                    var time_sunset = data.daily.sunset.toString();
-                    document.getElementById("sunset").innerHTML += time_sunset.slice(11) + "p.m.";
-                    document.getElementById("max_windspeed").innerHTML += data.daily.windspeed_10m_max + unit_windspeed;
-                    document.getElementById("timezone").innerHTML += `${data.timezone} (UTC${data.timezone_abbreviation})`;
-                })
-                .catch(error =>
-                {
-                    console.error("An error occurred while fetching weather data: ", error);
-                });
-        })
-        .catch(error =>
-        {
-            console.error("An error occurred while fetching geolocation data: ", error);
-        });
-    */
 </script>
+
+    </div>
+    <footer class="content-footer"></footer>
+
+            </section>
+
+            <footer class="page-footer">
+<p class="copyright">
+    <a href="https://github.com/caodoc">caodoc</a>
+</p>
+</footer>
+        </div>
+    </body>
+</html>
