@@ -1,6 +1,8 @@
 +++
-title = "Site Informations"
+title = "Site's Information"
 +++
+
+![](/media/anime-girl-chilling.gif)
 
 + Avatar by **千道センリ** on [pixiv](https://www.pixiv.net/en/users/36388895).
 + Hosting on [GitHub](https://pages.github.com).

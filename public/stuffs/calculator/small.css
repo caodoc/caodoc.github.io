@@ -1,0 +1,11 @@
+@import "mocha.css";
+
+#container
+{
+	display: none;
+}
+
+#message
+{
+	display: block;
+}

@@ -11,7 +11,7 @@ author = "caodoc"
 description = "\"You&#39;re a wanderer, just like me.\""
 source = "https://github.com/caodoc"
 baseURL = "https://caodoc.is-a.dev"
-imageURL = "https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png"
+imageURL = "/assets/preview.png"
 
 [params.Theme]
 themeColor = "#000000"
@@ -20,19 +20,19 @@ palette = "mocha"
 # Head Menu
 [menu]
     [[menu.main]]
-        identifier = "notes"
-        name = "notes"
-        url = "/n/"
+        identifier = "note"
+        name = "note"
+        url = "/note/"
         weight = 10
 
     [[menu.main]]
         identifier = "repo"
         name = "repo"
-        url = "/r/"
+        url = "/repo/"
         weight = 20
 
     [[menu.main]]
         identifier = "stuff"
         name = "stuff"
-        url = "/s/"
+        url = "/stuff/"
         weight = 30

@@ -1,5 +1,12 @@
 {{ with .Site.Params.About }}
 <p class="copyright">
+    <text> By </text>
     <a href="{{ .Source }}">{{ .Author }}</a>
 </p>
+
+<div>
+    <text> 2023 - <text id="currentYear">  </text> </text>
+</div>
+
+<script src="/js/time.js"> </script>
 {{ end }}

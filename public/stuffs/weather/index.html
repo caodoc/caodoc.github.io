@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+        <title> weather &ndash; caodoc </title>
+
+		<link rel="stylesheet" media="(min-width: 500px)" type="text/css" href="./medium.css"/>
+        <link rel="stylesheet" media="(max-width: 500px)" type="text/css" href="./small.css"/>
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="box">
+                <p id="header" align="center"> Your Weather </p>
+                <div id="holder">
+                    <input id="city_name" type="text" placeholder="City" required>
+                    <button id="submit"> Go </button>
+                </div>
+                <div id="warning"></div>
+                <p class="name"> Current: </p>
+                <ul>
+                    <p> <li id="current_temperature"> Temperature: </li> </p>
+                    <p> <li id="current_windspeed"> Wind Speed: </li> </p>
+                    <p> <li id="current_description"> Description: </li> </p>
+                </ul>
+                <p class="name"> Daily: </p>
+                <ul>
+                    <p> <li> Temperature: </li> </p>
+                    <div id="box_temperature">
+                        <text id="daily_max_temperature" align="left"> Max: </text>
+                        <text id="daily_min_temperature" align="right"> Min: </text>
+                    </div>
+                    <p> <li id="sunrise"> Sunrise: </li> </p>
+                    <p> <li id="sunset"> Sunset: </li> </p>
+                    <p> <li id="max_windspeed"> Max Wind Speed: </li> </p>
+                    <p> <li id="timezone"> Timezone: </li> </p>
+                </ul>
+            </div>
+        </div>
+        <script src="./script.js"></script>
+    </body>
+</html>
