@@ -2,10 +2,8 @@
 
 Is this your first time to this page? Don't worry, this is **caodoc** and welcome to ***caodoc's not a very complicated page*** for random things which I think are interesting.
 
-A little bit about myself, I'm a hobbyist programmer who loves exploring modern technologies.
+A little bit about myself, I'm a hobbyist programmer who love to explore modern technologies.
 I'm currently learning front-end development.
-
-You might found me somewhere around GitHub & Discord servers.
 
 # Projects
 I haven't contributed to any projects.. yet.
@@ -19,6 +17,6 @@ But I will, surely!
 
 # Other links
 
-+ All my repositories are on my [GitHub](https://github.com/caodoc) account.
++ GitHub: [caodoc](https://github.com/caodoc).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
 + Information about this site [here](./site-information).

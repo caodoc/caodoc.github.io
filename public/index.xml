@@ -44,11 +44,11 @@
       <description>Faster Windows: Tweak Windows: Winaero Tweaker. Remove bloatware: Bloatbox. Editor: Visual Studio Code with Theme: One Dark Pro. Extensions: Competitive Programming Helper, CodeSnap, Better Comments. Apps: Crystal Disk Info: A SSD/HDD utility software. Everything: Better files/folders search. Notepad++: Extra text editor. K-Lite Codec: Media player. Oh My Posh: Customize Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. Osu skin: Shiro Seijo </description>
     </item>
     <item>
-      <title>Repositories</title>
+      <title>Repository</title>
       <link>https://caodoc.is-a.dev/repo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/repo/</guid>
-      <description>All my projects are uploaded into GitHub. You can check them all out here.&#xA;❗ From Feb 11th 2024, ASCII, Calculator, Clock, Neon, Weather have been archived on GitHub &amp;amp; moved to ./stuff.&#xA;ASCII A front-end ASCII table.&#xA;Calculator A front-end calculator.&#xA;caodoc.github.io Source code of the current page you are visiting.&#xA;CIANS Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.</description>
+      <description>Best of my repositories.&#xA;CIANS Stands for C++ In A Nutshell, a place for my solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Code Snippets My custom code snippets to make coding easier &amp;amp; faster.&#xA;Documents Documents collection.&#xA;PIANS Stands for Python In A Nutshell, it has some useful scripts written in Python &amp;amp; my Python high school homework.</description>
     </item>
     <item>
       <title>Site&#39;s Information</title>
@@ -62,7 +62,7 @@
       <link>https://caodoc.is-a.dev/stuff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/stuff/</guid>
-      <description> List to my front-end pages.&#xA;ASCII: Source - Direct. Calculator: Source - Direct. Clock: Source - Direct. Neon: Source - Direct. Weather: Source - Direct. </description>
+      <description> Source code &amp;amp; direct link to my front-end website(s).&#xA;ASCII Table: Source - Direct. Calculator: Source - Direct. Clock: Source - Direct. Valentine: Source. Neon: Source - Direct. Weather Forecast: Source - Direct. </description>
     </item>
   </channel>
 </rss>
