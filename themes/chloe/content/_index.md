@@ -12,7 +12,7 @@ But I will, surely!
 
 # Contact
 
-+ A member of [exozy](https://exozy.me): [@caodoc:exozy.me]().
++ A member of [exozy](https://exozy.me): [@caodoc:exozy.me]() / [caodoc.exozy.me](https://caodoc.exozy.me/).
 + Discord: [caodoc](https://discord.com/users/800173074166710282) (faster response).
 
 # Other links

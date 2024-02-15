@@ -48,21 +48,14 @@
       <link>https://caodoc.is-a.dev/repo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/repo/</guid>
-      <description>Best of my repositories.&#xA;CIANS Stands for C++ In A Nutshell, a place for my solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Code Snippets My custom code snippets to make coding easier &amp;amp; faster.&#xA;Documents Documents collection.&#xA;PIANS Stands for Python In A Nutshell, it has some useful scripts written in Python &amp;amp; my Python high school homework.</description>
+      <description>The full list of my repositories.&#xA;Best of all The list I most focus &amp;amp; working on.&#xA;CIANS: Stands for C++ In A Nutshell, a place for my solved problems on Codeforces, LeetCode, VNOJ, etc.&#xA;Code Snippets: My custom code snippets to make coding easier &amp;amp; faster.&#xA;Documents: Documents collection.&#xA;PIANS: Stands for Python In A Nutshell, it has some useful scripts written in Python &amp;amp; my Python high school homework.</description>
     </item>
     <item>
       <title>Site&#39;s Information</title>
       <link>https://caodoc.is-a.dev/site-information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/site-information/</guid>
-      <description>&#xA;Avatar by 千道センリ on pixiv. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Theme color: catppuccin (mocha). Domain by: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
-    </item>
-    <item>
-      <title>Stuff</title>
-      <link>https://caodoc.is-a.dev/stuff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/stuff/</guid>
-      <description> Source code &amp;amp; direct link to my front-end website(s).&#xA;ASCII Table: Source - Direct. Calculator: Source - Direct. Clock: Source - Direct. Valentine: Source. Neon: Source - Direct. Weather Forecast: Source - Direct. </description>
+      <description>&#xA;Avatar by 朔月八雲 on pixiv. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Theme color: catppuccin (mocha). Free domain registered at: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
     </item>
   </channel>
 </rss>

@@ -30,9 +30,3 @@ palette = "mocha"
         name = "repo"
         url = "/repo/"
         weight = 20
-
-    [[menu.main]]
-        identifier = "stuff"
-        name = "stuff"
-        url = "/stuff/"
-        weight = 30
