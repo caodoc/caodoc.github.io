@@ -19,5 +19,6 @@ description = "The way I configure my PC for long-term use."
 * [K-Lite Codec](https://codecguide.com/download_kl.htm): Media player.
 * [Oh My Posh](https://ohmyposh.dev/): Customize Windows terminal, you can read my note on how to install Oh My Posh [here](../ohmyposh).
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel): An extensible proxy server.
+* & more on my [GitHub stared repositories](https://github.com/caodoc?tab=stars).
 
 ## Osu skin: [Shiro Seijo](https://osu.ppy.sh/community/forums/topics/1525944)

@@ -12,11 +12,11 @@ But I will, surely!
 
 # Contact
 
-+ A member of [exozy](https://exozy.me): [@caodoc:exozy.me]() / [caodoc.exozy.me](https://caodoc.exozy.me/).
++ A member of [exozyme](https://exozy.me): [@caodoc:exozy.me]() / [caodoc.exozy.me](https://caodoc.exozy.me/).
 + Discord: [caodoc](https://discord.com/users/800173074166710282) (faster response).
 
 # Other links
 
 + GitHub: [caodoc](https://github.com/caodoc).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
-+ Information about this site [here](./site-information).
++ Information about this site [here](./site_information).
