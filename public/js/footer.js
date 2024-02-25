@@ -3,14 +3,9 @@ timeStat.textContent = (new Date()).getFullYear();
 
 const visitorCount = document.getElementById("visitor-count");
 
-if (!localStorage.getItem("lastVisited"))
-{
-    const date = new Date();
-    console.log(date);
-    localStorage.setItem("lastVisited", date.getDate());
-}
+const milisecondADay = 86400000;
 
-if (!localStorage.getItem("count"))
+function newVisitor()
 {
     fetch("https://caodoc-api.exozy.me/new_visitor/github")
         .then(reponse => reponse.json())
@@ -20,18 +15,26 @@ if (!localStorage.getItem("count"))
         });
 }
 
+// Create Last Date Visited
+if (!localStorage.getItem("lastVisited"))
+{
+    const date = new Date().getTime();
+    console.log(date);
+    localStorage.setItem("lastVisited", date);
+}
+
+// Create Count on LocalStorage
+if (!localStorage.getItem("count"))
+{
+    newVisitor();
+}
+
 visitorCount.textContent = localStorage.getItem("count");
 
-const date = new Date();
-if (date.getDate() != localStorage.getItem("lastVisited"))
-{
-    fetch("https://caodoc-api.exozy.me/new_visitor/github")
-        .then(reponse => reponse.json())
-        .then(data => {
-            visitorCount.textContent = data.count;
-        });
+const date = new Date().getTime();
 
-    const date = new Date();
-    console.log(date);
-    localStorage.setItem("lastVisited", date.getDate());
+if (date - localStorage.getItem("lastVisited") >= milisecondADay)
+{
+    newVisitor();
+    localStorage.setItem("lastVisited", date);
 }
