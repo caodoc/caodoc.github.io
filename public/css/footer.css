@@ -11,7 +11,7 @@
     margin: 0;
 }
 
-#page-extended
+.copyright
 {
     display: flex;
     flex-direction: row;

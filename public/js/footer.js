@@ -1,9 +1,4 @@
-const timeStat = document.getElementById("currentYear");
-timeStat.textContent = (new Date()).getFullYear();
-
-const visitorCount = document.getElementById("visitor-count");
-
-const milisecondADay = 86400000;
+const currentTheme = document.getElementById("currentTheme");
 
 function newVisitor()
 {
@@ -15,26 +10,28 @@ function newVisitor()
         });
 }
 
-// Create Last Date Visited
-if (!localStorage.getItem("lastVisited"))
+function themeLoad()
 {
-    const date = new Date().getTime();
-    console.log(date);
-    localStorage.setItem("lastVisited", date);
+    var link = document.createElement("link");
+    link.type = "text/css";
+    link.rel = "stylesheet";
+    if (localStorage.getItem("isTheme") === "Dark") link.href = "/css/palettes/mocha.css";
+    else link.href = "/css/palettes/base16-light.css";
+    document.head.appendChild(link);
 }
 
-// Create Count on LocalStorage
-if (!localStorage.getItem("count"))
+if (!localStorage.getItem("isTheme"))
 {
-    newVisitor();
+    localStorage.setItem("isTheme", "Dark");
 }
 
-visitorCount.textContent = localStorage.getItem("count");
+themeLoad();
 
-const date = new Date().getTime();
+currentTheme.textContent = localStorage.getItem("isTheme");
 
-if (date - localStorage.getItem("lastVisited") >= milisecondADay)
-{
-    newVisitor();
-    localStorage.setItem("lastVisited", date);
-}
+currentTheme.addEventListener("click", () => {
+    const oldTheme = localStorage.getItem("isTheme");
+    if (oldTheme === "Dark") localStorage.setItem("isTheme", "Light");
+    else localStorage.setItem("isTheme", "Dark");
+    currentTheme.textContent = localStorage.getItem("isTheme");
+});
