@@ -1,14 +1,4 @@
-const currentTheme = document.getElementById("currentTheme");
-
-function newVisitor()
-{
-    fetch("https://caodoc-api.exozy.me/new_visitor/github")
-        .then(reponse => reponse.json())
-        .then(data => {
-            localStorage.setItem("count", data.count);
-            visitorCount.textContent = data.count;
-        });
-}
+const currentTheme = document.getElementById("current-theme");
 
 function themeLoad()
 {

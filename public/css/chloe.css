@@ -4,10 +4,14 @@
 @import "header.css";
 @import "footer.css";
 @import "typography.css";
-@import "stuff.css";
 
 body
 {
+    min-height: 90vh;
     background-color: var(--bg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: none;
     color: var(--fg);
 }
