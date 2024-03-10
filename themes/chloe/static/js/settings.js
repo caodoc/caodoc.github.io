@@ -5,7 +5,7 @@ function backgroundImageLoad()
 {
     if (localStorage.getItem("isBackgroundImage") === "Yes")
     {
-        document.body.style.backgroundImage = "url('/media/B5x8xT3.gif')";
+        document.body.style.backgroundImage = "url('/media/wallpaper.gif')";
     }
     else
     {

@@ -1,6 +1,12 @@
+@font-face
+{
+    font-family: "FiraCodeFont";
+    src: url(../font/CONSOLAS.TTF);
+}
+
 body
 {
-    font-family: "Fira Mono", monospace;
+    font-family: "FiraCodeFont", monospace;
     font-size: 16px;
     line-height: 1.5rem;
 }

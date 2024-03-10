@@ -11,6 +11,7 @@ title = "Settings"
 + Hosting on [GitHub](https://pages.github.com).
 + Static site generator: [hugo](https://gohugo.io).
 + Template: [risotto](https://github.com/joeroe/risotto) (modified).
++ Font: [FiraCode](https://github.com/tonsky/FiraCode).
 + Theme color:
 [catppuccin](https://github.com/catppuccin/catppuccin) (mocha)
 & [base16-light](/css/palettes/base16-light.css).
