@@ -1,12 +1,12 @@
 @font-face
 {
-    font-family: "FiraCodeFont";
-    src: url(../font/CONSOLAS.TTF);
+    font-family: "myFont";
+    src: url(../font/JetBrainsMono-Medium.woff2);
 }
 
 body
 {
-    font-family: "FiraCodeFont", monospace;
+    font-family: "myFont", monospace;
     font-size: 16px;
     line-height: 1.5rem;
 }
