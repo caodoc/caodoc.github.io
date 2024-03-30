@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://caodoc.is-a.dev/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/github-unwrapped-2023/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/reimu-from-touhou/</loc>
+    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/website-older-versions/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/setup-oh-my-posh-on-windows/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/my-pc-configuration/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/categories/</loc>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/repo/</loc>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/settings/</loc>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/tags/</loc>
+  </url>
+</urlset>

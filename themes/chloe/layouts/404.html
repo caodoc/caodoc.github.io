@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="{{- site.Language.Lang -}}">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        {{ with .Site.Params.Theme}}
+        <meta name="theme-color" content="{{ .ThemeColor }}">
+        {{ end }}
+
+        {{ if .Site.Params.noindex }}
+        <meta name="robots" content="noindex">
+        <meta name="robots" content="nofollow">
+        {{ end }}
+
+        <title> 404 </title>
+
+        <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-16px.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png">
+
+        <link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png">
+
+        <link rel="stylesheet" href="{{ "css/404.css" | absURL }}">
+    </head>
+
+    <body>
+        <h1> Page Not Found! </h1>
+
+        <div>
+            <p> It seems like you got lost after accessing a wrong URL. </p>
+            <p> Please check the URL or go back to <a href="https://caodoc.is-a.dev"> main page</a>.</p>
+        </div>
+    </body>
+</html>

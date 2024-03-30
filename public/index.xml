@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caodoc</title>
+    <link>https://caodoc.is-a.dev/</link>
+    <description>Recent content on caodoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://caodoc.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Unwrapped 2023</title>
+      <link>https://caodoc.is-a.dev/note/github-unwrapped-2023/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/note/github-unwrapped-2023/</guid>
+      <description>Created on GitHub Unwrapped, you can find anything related there.&#xA;Result Summary Top language: C++ Javascript Python Issues: Opened: 1. Closed: 1. Others Contributions: 463. Most productive day: Thursday. Most productive hour: 1pm. Pull requests merged: 7. Repository Stared: 111. Many happened this year: my coding skills improved, I have remade some basic front-end websites, etc.. Kind of a successful year for me I guess.&#xA;Anyways, Happy New Year 2024!</description>
+    </item>
+    <item>
+      <title>Reimu In A Nutshell</title>
+      <link>https://caodoc.is-a.dev/note/reimu-from-touhou/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/note/reimu-from-touhou/</guid>
+      <description>Yes, this is a shitpost (I have lost my mind after the final exams of the 12th grade first semester).&#xA;About the gif below, I used media-to-ascii to convert the original to ascii video.&#xA;⚠ Attention: I do not own any of these media, these were I found around the Internet.&#xA;Me during the exams: Reimu dancing Reimu hugging Reimu in the Winter Reimu eating Reimu wishing you a nice day!</description>
+    </item>
+    <item>
+      <title>This website&#39;s older versions</title>
+      <link>https://caodoc.is-a.dev/note/website-older-versions/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/note/website-older-versions/</guid>
+      <description>1.0: Release date: June 2023. This is the first version of my website when I started to learn front-end development. I glad it worked when I saw it online. Go to page 2.0 &amp;amp; 3.0: Release date: July 2023. As a beginner, I wanted to practice more with more complexity, so I made 2.0 and 3.0. I struggled while trying to make it responsive but it worked somehow. Go to page 4.</description>
+    </item>
+    <item>
+      <title>How to install Oh My Posh on Windows</title>
+      <link>https://caodoc.is-a.dev/note/setup-oh-my-posh-on-windows/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/note/setup-oh-my-posh-on-windows/</guid>
+      <description>About Oh My Posh Oh My Posh is a prompt theme engine for any shell, makes your terminal looks better than its default interface.&#xA;For example:&#xA;Installation Oh My Posh: To download ohmyposh.exe and all the themes, open a powershell window and run:&#xA;winget install JanDeDobbeleer.OhMyPosh -s winget Font: After that, you will need a suitable font. I recommend you should use Fire Code font.&#xA;Setting up Font: You can change the font on the terminal by doing:</description>
+    </item>
+    <item>
+      <title>My PC Configuration</title>
+      <link>https://caodoc.is-a.dev/note/my-pc-configuration/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/note/my-pc-configuration/</guid>
+      <description>Faster Windows: Tweak Windows: Winaero Tweaker. Remove bloatware: Bloatbox. Editor: Visual Studio Code with Theme: One Dark Pro. Extensions: Competitive Programming Helper, CodeSnap, Better Comments. Apps: Crystal Disk Info: A SSD/HDD utility software. Everything: Better files/folders search. Notepad++: Extra text editor. K-Lite Codec: Media player. Oh My Posh: Customize Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. &amp;amp; more on my GitHub stared repositories.</description>
+    </item>
+    <item>
+      <title>Repository</title>
+      <link>https://caodoc.is-a.dev/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/repo/</guid>
+      <description>The full list of my repositories.&#xA;Mainly working on CIANS: Stands for C++ In A Nutshell, a place for my solved problems on Codeforces, LeetCode, VNOJ, etc. Code Snippets: My custom code snippets to make coding easier &amp;amp; faster. Documents: Documents collection. PIANS: Stands for Python In A Nutshell, it has some useful scripts written in Python &amp;amp; my Python high school homework. Front-end sites ASCII Table. Calculator. Clock. Valentine.</description>
+    </item>
+    <item>
+      <title>Settings</title>
+      <link>https://caodoc.is-a.dev/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/settings/</guid>
+      <description>&#xD;Background Image: . Theme: . Other informations Avatar by 朔月八雲 on pixiv. Background source by WANEELLA. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Font: Cascadia Code Mono. Theme color: catppuccin (mocha) &amp;amp; base16-light. Free domain registered at: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
+    </item>
+  </channel>
+</rss>

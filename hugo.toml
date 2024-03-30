@@ -1,0 +1,4 @@
+baseURL = "https://caodoc.is-a.dev"
+languageCode = "en-us"
+title = "caodoc"
+theme = "chloe"

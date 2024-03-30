@@ -1,0 +1,32 @@
+# Default
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.About]
+title = "caodoc"
+author = "caodoc"
+description = "\"You&#39;re a wanderer, just like me.\""
+source = "https://github.com/caodoc"
+baseURL = "https://caodoc.is-a.dev"
+imageURL = "/assets/preview.png"
+
+[params.Theme]
+themeColor = "#000000"
+palette = "mocha"
+
+# Head Menu
+[menu]
+    [[menu.main]]
+        identifier = "note"
+        name = "note"
+        url = "/note/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "repo"
+        name = "repo"
+        url = "/repo/"
+        weight = 20
