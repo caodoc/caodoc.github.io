@@ -14,13 +14,13 @@
         <meta name="robots" content="nofollow">
         {{ end }}
 
-        <title> 404 </title>
+        <title> 404 - Page not found! </title>
 
-        <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-16px.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ "/logo/favicon-16px.png" | absURL }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ "/logo/favicon-32px.png" | absURL }}">
+        <link rel="apple-touch-icon" sizes="192x192" href="{{ "/logo/favicon-192px.png" | absURL }}">
 
-        <link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png">
-
+        <link rel="stylesheet" href="{{ printf "css/palettes/%s.css" (.Site.Params.Theme.Palette | default "tokyo-night-dark") | absURL }}">
         <link rel="stylesheet" href="{{ "css/404.css" | absURL }}">
     </head>
 
