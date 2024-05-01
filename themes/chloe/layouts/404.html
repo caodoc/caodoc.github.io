@@ -4,17 +4,42 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         {{ with .Site.Params.Theme}}
         <meta name="theme-color" content="{{ .ThemeColor }}">
         {{ end }}
 
-        {{ if .Site.Params.noindex }}
+        {{ with .Site.Params.About }}
+        <meta name="title" content="{{ .Title }}">
+        <meta name="author" content="{{ .Author }}">
+        <meta name="description" content="{{ .Description }}">
+
+        <meta itemprop="name" content="{{ .Title }}">
+        <meta itemprop="description" content="{{ .Description }}">
+        <meta itemprop="image" content="{{ .ImageURL | relURL }}">
+
+        <meta name="twitter:title" content="{{ .Title }}">
+        <meta name="twitter:creator" content="{{ .Author }}">
+        <meta name="twitter:description" content="{{ .Description }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="{{ .ImageURL | absURL }}">
+        <meta name="twitter:url" content="{{ .BaseURL }}">
+
+        <meta property="og:title" content="{{ .Title }}">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{ .Description }}">
+        <meta property="og:image" content="{{ .ImageURL | absURL }}">
+        <meta property="og:url" content="{{ .BaseURL }}">
+        {{ end }}
+
+        {{ if .Site.Params.Noindex }}
         <meta name="robots" content="noindex">
         <meta name="robots" content="nofollow">
         {{ end }}
 
-        <title> 404 - Page not found! </title>
+        <title> 404 </title>
+
+        <link rel="canonical" href="https://caodoc.is-a.dev">
 
         <link rel="icon" type="image/png" sizes="16x16" href="{{ "/logo/favicon-16px.png" | absURL }}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{ "/logo/favicon-32px.png" | absURL }}">
@@ -27,9 +52,11 @@
     <body>
         <h1> Page Not Found! </h1>
 
+        <img src="/media/404NotFound.png">
+
         <div>
             <p> It seems like you got lost after accessing a wrong URL. </p>
-            <p> Please check the URL or go back to <a href="https://caodoc.is-a.dev"> main page</a>.</p>
+            <p> Please check the URL or go back to <a href="/"> main page</a>.</p>
         </div>
     </body>
 </html>

@@ -1,5 +1,10 @@
 @import "colours.css";
-@import "./palettes/mocha.css";
+
+@font-face
+{
+    font-family: "myFont";
+    src: url(../font/CascadiaMonoPL.woff2);
+}
 
 *::-webkit-scrollbar
 {
@@ -28,7 +33,7 @@ body
 	align-items: center;
     background-color: var(--bg);
     color: var(--fg);
-    font-family: "Fira Mono", monospace;
+	font-family: "myFont", monospace;
     font-size: 16px;
 }
 
