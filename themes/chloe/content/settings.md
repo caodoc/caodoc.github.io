@@ -7,7 +7,7 @@ title = "Settings"
 
 # Other informations
 
-+ Avatar by **朔月八雲** on [pixiv](https://www.pixiv.net/en/users/17509087).
++ Avatar by **Yomou** on [pixiv](https://www.pixiv.net/en/users/25572824).
 + Background source by [WANEELLA](https://waneella.tumblr.com/).
 + Hosting on [GitHub](https://pages.github.com).
 + Static site generator: [hugo](https://gohugo.io).
