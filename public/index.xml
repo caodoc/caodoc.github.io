@@ -44,18 +44,18 @@
       <description>Faster Windows: Tweak Windows: Winaero Tweaker. Remove bloatware: Bloatbox. Editor: Visual Studio Code with Theme: One Dark Pro. Extensions: Competitive Programming Helper, CodeSnap, Better Comments. Apps: Crystal Disk Info: A SSD/HDD utility software. Everything: Better files/folders search. Notepad++: Extra text editor. K-Lite Codec: Media player. Oh My Posh: Customize Windows terminal, you can read my note on how to install Oh My Posh here. PowerTunnel: An extensible proxy server. &amp;amp; more on my GitHub stared repositories.</description>
     </item>
     <item>
-      <title>Repository</title>
-      <link>https://caodoc.is-a.dev/repo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/repo/</guid>
-      <description> Repositories I mainly working on.&#xA;CIANS: Stands for C++ In A Nutshell, a place for my solved problems on Codeforces, LeetCode, VNOJ, etc. PIANS: Stands for Python In A Nutshell, this repository has some useful scripts written in Python &amp;amp; my Python high school homework. </description>
-    </item>
-    <item>
       <title>Settings</title>
       <link>https://caodoc.is-a.dev/settings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://caodoc.is-a.dev/settings/</guid>
-      <description>&#xD;Background Image: . Theme: . Other informations Avatar by Yomou on pixiv. Background source by WANEELLA. Hosting on GitHub. Static site generator: hugo. Template: risotto (modified). Font: Cascadia Code Mono. Theme color: catppuccin (mocha) &amp;amp; base16-light. Free domain registered at: is-a.dev. Source code available at caodoc/caodoc.github.io. </description>
+      <description>&#xD;Background Image: . Theme: . Other informations Avatar by Yomou on pixiv. Background source by WANEELLA. 404NotFound.png by SAWARATSUKI on vtuberlogos.alfon.dev. Hosting on GitHub. Domain registered at: is-a.dev (free). Static site generator: hugo. Template: risotto (modified). Font: Cascadia Code Mono. Theme color: catppuccin (mocha) &amp;amp; base16-light. Source code available at caodoc/caodoc.github.io. </description>
+    </item>
+    <item>
+      <title>Webring</title>
+      <link>https://caodoc.is-a.dev/webring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/webring/</guid>
+      <description>My friends &amp;amp; their websites.&#xA;VnPower</description>
     </item>
   </channel>
 </rss>
