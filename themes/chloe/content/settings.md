@@ -9,7 +9,7 @@ title = "Settings"
 
 + Avatar by **Yomou** on [pixiv](https://www.pixiv.net/en/users/25572824).
 + Background source by [WANEELLA](https://waneella.tumblr.com/).
-+ [404NotFound.png](http://localhost:1313/media/404NotFound.png]) by **[SAWARATSUKI](https://vtuberlogos.alfon.dev/SAWARATSUKI)** on [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
++ [404NotFound.png](/media/404NotFound.png) by **[SAWARATSUKI](https://vtuberlogos.alfon.dev/SAWARATSUKI)** on [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
 + Hosting on [GitHub](https://pages.github.com).
 + Domain registered at: [is-a.dev](https://is-a.dev) (free).
 + Static site generator: [hugo](https://gohugo.io).
