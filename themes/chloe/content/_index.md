@@ -1,6 +1,6 @@
-Hi! This is **caodoc** and welcome to ***"caodoc's not a very complicated page"*** for random things which I think are interesting.
+Hi, I'm **caodoc** and I'm an intermediate programmer.
 
-I'm a hobbyist developer who loves to explore modern technology and sometimes I write stuffs.
+I love to explore modern technology and sometimes I write stuffs.
 
 # Contact
 
@@ -9,6 +9,6 @@ I'm a hobbyist developer who loves to explore modern technology and sometimes I 
 
 # Other links
 
-+ GitHub: [caodoc](https://github.com/caodoc).
++ [GitHub](https://github.com/caodoc) / [Codeforces](https://codeforces.com/profile/caodoc) / [Leetcode](https://leetcode.com/u/caodoc/).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
 + Settings & Informations about this site [here](./settings).

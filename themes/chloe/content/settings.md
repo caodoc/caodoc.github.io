@@ -5,11 +5,13 @@ title = "Settings"
 {{< settings >}}
 
 
-# Other informations
+# Assets
 
-+ Avatar by **Yomou** on [pixiv](https://www.pixiv.net/en/users/25572824).
++ Avatar by **镜丶GORK** on [pixiv](https://www.pixiv.net/en/users/93546227).
 + Background source by [WANEELLA](https://waneella.tumblr.com/).
-+ [404NotFound.png](/media/404NotFound.png) by **[SAWARATSUKI](https://vtuberlogos.alfon.dev/SAWARATSUKI)** on [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
++ [404NotFound.png](/media/404NotFound.png) was taken from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
+
+# Statics
 + Hosting on [GitHub](https://pages.github.com).
 + Domain registered at: [is-a.dev](https://is-a.dev) (free).
 + Static site generator: [hugo](https://gohugo.io).

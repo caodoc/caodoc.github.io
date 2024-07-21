@@ -8,7 +8,7 @@ noindex = false
 [params.About]
 title = "caodoc"
 author = "caodoc"
-description = "\"You&#39;re a wanderer, just like me.\""
+description = "An Intermediate Programmer."
 source = "https://github.com/caodoc"
 baseURL = "https://caodoc.is-a.dev"
 imageURL = "/assets/preview.png"
