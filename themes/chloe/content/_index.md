@@ -1,6 +1,6 @@
-Hi, I'm **caodoc** and I'm an intermediate programmer.
+Hi, I'm **caodoc**.
 
-I love to explore modern technology and sometimes I write stuffs.
+I'm an intermediate programmer and sometimes I write stuffs.
 
 # Contact
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on caodoc</title>
+    <link>https://caodoc.is-a.dev/tool/</link>
+    <description>Recent content in Tool on caodoc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://caodoc.is-a.dev/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tra cứu điểm thi THPT 2024</title>
+      <link>https://caodoc.is-a.dev/tool/tra-cuu-diem-thi-thpt-2024/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/tool/tra-cuu-diem-thi-thpt-2024/</guid>
+      <description> Nguồn được lấy từ github.com/anhdung98/diem_thi_2024. Số báo danh chỉ bao gồm 8 số. Nhập số báo danh: Tra cứu Thông tin số báo danh đã tra cứu: </description>
+    </item>
+  </channel>
+</rss>

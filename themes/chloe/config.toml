@@ -20,13 +20,19 @@ palette = "mocha"
 # Head Menu
 [menu]
     [[menu.main]]
+        identifier = "friends"
+        name = "friends"
+        url = "/friends/"
+        weight = 10
+        
+    [[menu.main]]
         identifier = "note"
         name = "note"
         url = "/note/"
-        weight = 10
+        weight = 20
 
     [[menu.main]]
-        identifier = "webring"
-        name = "webring"
-        url = "/webring/"
-        weight = 20
+        identifier = "tool"
+        name = "tool"
+        url = "/tool/"
+        weight = 30
