@@ -32,7 +32,7 @@ palette = "mocha"
         weight = 20
 
     [[menu.main]]
-        identifier = "tool"
-        name = "tool"
-        url = "/tool/"
+        identifier = "lab"
+        name = "lab"
+        url = "/lab/"
         weight = 30

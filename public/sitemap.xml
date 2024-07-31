@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caodoc.is-a.dev/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/tool/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <loc>https://caodoc.is-a.dev/lab/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/tool/tra-cuu-diem-thi-thpt-2024/</loc>
+    <loc>https://caodoc.is-a.dev/lab/tic-tac-toe/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/lab/tra-cuu-diem-thi-thpt-2024/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caodoc.is-a.dev/note/github-unwrapped-2023/</loc>

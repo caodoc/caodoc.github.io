@@ -33,7 +33,7 @@
 
 
 
-<title> Reimu in a Nutshell &ndash; caodoc </title>
+<title> Tic Tac Toe &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -70,29 +70,94 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Reimu In A Nutshell</h1>
+        <h1>Tic Tac Toe</h1>
     </header>
     
     <div class="content-body">
-        <p>Yes, this is a shitpost (I have lost my mind after the final exams of the 12th grade first semester).</p>
-<p>About the gif below, I used <a href="https://github.com/spoorn/media-to-ascii">media-to-ascii</a> to convert the <a href="https://media.tenor.com/UqipMl_oBsoAAAPo/fumo-fumo-meme.mp4">original</a> to ascii video.</p>
-<blockquote>
-<p>⚠ Attention: I do not own any of these media, these were I found around the Internet.</p>
-</blockquote>
-<h2 id="me-during-the-exams">Me during the exams:</h2>
-<video controls>
-    <source src="https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/themes/chloe/static/media/reimu-the-test.mp4">
-</video>
-<h2 id="reimu-dancing">Reimu dancing</h2>
-<p><img src="/media/reimu-dancing.gif" alt=""></p>
-<h2 id="reimu-hugging">Reimu hugging</h2>
-<p><img src="/media/reimu-hugging.png" alt=""></p>
-<h2 id="reimu-in-the-winter">Reimu in the Winter</h2>
-<p><img src="/media/reimu-winter.png" alt=""></p>
-<h2 id="reimu-eating">Reimu eating</h2>
-<p><img src="/media/reimu-eating.gif" alt=""></p>
-<h2 id="reimu-wishing-you-a-nice-day">Reimu wishing you a nice day!</h2>
-<p><img src="/media/reimu-wishing-you.png" alt=""></p>
+        </br>
+
+<div id="ttt-board">
+    <div class="ttt-board-split">
+        <div class="ttt-square" id="0"> </div>
+        <div class="ttt-square" id="1"> </div>
+        <div class="ttt-square" id="2"> </div>
+    </div>
+    <div class="ttt-board-split">
+        <div class="ttt-square" id="3"> </div>
+        <div class="ttt-square" id="4"> </div>
+        <div class="ttt-square" id="5"> </div>
+    </div>
+    <div class="ttt-board-split">
+        <div class="ttt-square" id="6"> </div>
+        <div class="ttt-square" id="7"> </div>
+        <div class="ttt-square" id="8"> </div>
+    </div>
+</div>
+
+</br>
+
+<div id="ttt-display-result"> </div>
+
+</br>
+
+<button id="ttt-restart" onclick="restartGame()"> Restart the Game </button>
+
+<style>
+    .ttt-square
+    {
+        width: 5rem;
+        height: 5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--inner-bg);
+        border-style: solid;
+        border-radius: 1rem;
+        border-width: 2px;
+        border-color: var(--link);
+        color: var(--fg);
+        font-family: cursive;
+        font-size: 3rem;
+    }
+
+    .ttt-square:hover
+    {
+        cursor: pointer;
+    }
+
+    #ttt-board
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5vh;
+    }
+
+    .ttt-board-split
+    {
+        display: flex;
+        flex-direction: row;
+        gap: 1.5vh;
+    }
+
+    #ttt-restart
+    {
+        max-width: max-content;
+        height: 30px;
+        padding: 0px 10px 0px 10px;
+        display: inline-block;
+        background-color: var(--muted);
+        border: none;
+        border-radius: 5px;
+        color: var(--fg);
+    }
+
+    #ttt-restart:hover
+    {
+        cursor: pointer;
+    }
+</style>
+
+<script src="/js/tic-tac-toe.js"> </script>
 
     </div>
     <footer class="content-footer"></footer>

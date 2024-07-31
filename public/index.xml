@@ -6,14 +6,21 @@
     <description>Recent content on caodoc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://caodoc.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tic Tac Toe</title>
+      <link>https://caodoc.is-a.dev/lab/tic-tac-toe/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://caodoc.is-a.dev/lab/tic-tac-toe/</guid>
+      <description>&#xD;Restart the Game </description>
+    </item>
+    <item>
       <title>Tra cứu điểm thi THPT 2024</title>
-      <link>https://caodoc.is-a.dev/tool/tra-cuu-diem-thi-thpt-2024/</link>
+      <link>https://caodoc.is-a.dev/lab/tra-cuu-diem-thi-thpt-2024/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://caodoc.is-a.dev/tool/tra-cuu-diem-thi-thpt-2024/</guid>
-      <description> Nguồn được lấy từ github.com/anhdung98/diem_thi_2024. Số báo danh chỉ bao gồm 8 số. Nhập số báo danh: Tra cứu Thông tin số báo danh đã tra cứu: </description>
+      <guid>https://caodoc.is-a.dev/lab/tra-cuu-diem-thi-thpt-2024/</guid>
+      <description> File thông tin được lấy từ github.com/anhdung98/diem_thi_2024. Số báo danh chỉ bao gồm 8 số. Nhập số báo danh: Tra cứu Thông tin số báo danh đã tra cứu: </description>
     </item>
     <item>
       <title>GitHub Unwrapped 2023</title>
