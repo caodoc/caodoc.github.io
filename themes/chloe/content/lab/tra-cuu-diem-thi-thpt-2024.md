@@ -1,6 +1,6 @@
 +++
 title = "Tra cứu điểm thi THPT 2024"
-description = "Unbox điểm thi THPT 2024."
+description = "Tra cứu điểm thi THPT 2024, không cần nhập CAPTCHA."
 date = "2024-07-25"
 +++
 
