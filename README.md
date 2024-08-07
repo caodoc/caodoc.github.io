@@ -1,5 +1,7 @@
 # caodoc.github.io
 
-My personal site.
+### Preview
 
-![](https://img.shields.io/github/last-commit/caodoc/caodoc.github.io?style="flat-square"&color="94a4ff")
+![](https://caodoc.is-a.dev/assets/preview.png)
+
+### Website's information can be found [here](https://caodoc.is-a.dev/settings/).
