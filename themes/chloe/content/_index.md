@@ -9,6 +9,6 @@ I'm an intermediate programmer and sometimes I write stuffs.
 
 # Other links
 
-+ [GitHub](https://github.com/caodoc) / [Codeforces](https://codeforces.com/profile/caodoc) / [Leetcode](https://leetcode.com/u/caodoc/).
++ [GitHub](https://github.com/caodoc) / [Codeforces](https://codeforces.com/profile/caodoc) / [LeetCode](https://leetcode.com/u/caodoc/) / [HackerRank](https://www.hackerrank.com/profile/caodoc).
 + Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
 + Settings & Informations about this site [here](./settings).
