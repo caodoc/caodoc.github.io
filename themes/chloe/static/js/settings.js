@@ -5,11 +5,12 @@ function backgroundImageLoad()
 {
     if (localStorage.getItem("isBackgroundImage") === "Yes")
     {
-        document.body.style.backgroundImage = `url('${window.location.origin}/media/index-background-image.gif')`;
+        document.body.style.backgroundImage = `url('${window.location.origin}/media/animated-background.gif')`;
     }
     else
     {
-        document.body.style.backgroundImage = "none";
+        document.body.style.backgroundImage = `url('${window.location.origin}/media/background.jpg')`;
+        document.body.style.filter = "blur(20px);";
     }
 }
 

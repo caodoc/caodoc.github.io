@@ -6,7 +6,7 @@ title = "Settings"
 
 # Assets
 
-+ Avatar by [镜丶GORK](https://www.pixiv.net/en/users/93546227).
++ Avatar by [CORE](https://www.pixiv.net/en/users/11211325) on pixiv.
 + Background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
 
