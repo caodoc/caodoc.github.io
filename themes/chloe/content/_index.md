@@ -1,6 +1,6 @@
 Hi, I'm **caodoc**.
 
-I'm new in programming and sometimes I write [stuff](/note).
+I'm a new developer and sometimes I write [stuff](/note).
 
 # Contact
 

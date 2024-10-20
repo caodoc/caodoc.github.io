@@ -6,8 +6,8 @@ title = "Settings"
 
 # Assets
 
-+ Avatar by [CORE](https://www.pixiv.net/en/users/11211325) on pixiv.
-+ Background by [WANEELLA](https://waneella.tumblr.com/).
++ Avatar by [pikuson](https://www.pixiv.net/en/users/15578906) on pixiv.
++ Animated background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
 
 # Page

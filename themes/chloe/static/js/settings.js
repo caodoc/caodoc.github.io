@@ -9,7 +9,7 @@ function backgroundImageLoad()
     }
     else
     {
-        document.body.style.backgroundImage = `url('${window.location.origin}/media/background.jpg')`;
+        document.body.style.backgroundImage = `none`;
         document.body.style.filter = "blur(20px);";
     }
 }
