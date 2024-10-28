@@ -1,6 +1,6 @@
 # Introduction
 
-{{< indexZ >}}, I'm **caodoc**.
+{{< indexZ >}} I'm **caodoc**.
 
 I'm a new developer and a freshman at **fit@hcmus**. Sometimes I write [note](/note) about my experiences with technology.
 

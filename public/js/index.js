@@ -49,13 +49,10 @@ function welcomeTextAnimation()
 {
     setInterval(function() {
         pos = i % 20;
-        console.log(welcomeText[pos], welcomeText[pos].length);
-
-        document.getElementById("welcomeTextBody").innerText = welcomeText[pos];
-        
+        console.log(pos, welcomeText[pos]);
+        document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\!`;
         i++;
-
-    }, 2500)
+    }, 1500)
 }
 
 welcomeTextAnimation();
