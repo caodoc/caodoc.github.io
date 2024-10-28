@@ -8,7 +8,7 @@ noindex = false
 [params.About]
 title = "caodoc"
 author = "caodoc"
-description = "An Intermediate Programmer."
+description = "A student of fit@hcmus"
 source = "https://github.com/caodoc"
 baseURL = "https://caodoc.is-a.dev"
 imageURL = "/assets/preview.png"
@@ -20,13 +20,19 @@ palette = "mocha"
 # Head Menu
 [menu]
     [[menu.main]]
+        identifier = "config"
+        name = "config"
+        url = "/config/"
+        weight = 10
+
+    [[menu.main]]
         identifier = "note"
         name = "note"
         url = "/note/"
-        weight = 10
+        weight = 20
 
     [[menu.main]]
         identifier = "lab"
         name = "lab"
         url = "/lab/"
-        weight = 20
+        weight = 30
