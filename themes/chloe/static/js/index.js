@@ -41,7 +41,7 @@ const welcomeText = [
     "Hej"
 ];
 
-document.getElementById("welcomeTextBody").innerText = welcomeText[0];
+document.getElementById("welcomeTextBody").innerText = welcomeText[0] + "! ";
 
 var pos = 0, i = 1;
 
@@ -50,7 +50,7 @@ function welcomeTextAnimation()
     setInterval(function() {
         pos = i % 20;
         console.log(pos, welcomeText[pos]);
-        document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\!`;
+        document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\! `;
         i++;
     }, 1500)
 }
