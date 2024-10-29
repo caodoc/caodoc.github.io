@@ -2,7 +2,7 @@ function backgroundImageLoad()
 {
     if (localStorage.getItem("isBackgroundImage") === "Yes")
     {
-        document.body.style.backgroundImage = `url('${window.location.origin}/media/animated-background.gif')`;
+        document.body.style.backgroundImage = `url('${window.location.origin}/media/animated-background.webp')`;
     }
     else
     {
