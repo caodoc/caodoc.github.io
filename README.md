@@ -1,8 +1,6 @@
 # caodoc.github.io
 
-My personal website, including some informations about myself, made for some writing stuffs and some tools.
-
-## Preview
+**caodoc**'s personal website
 
 ![](https://caodoc.is-a.dev/assets/preview.png)
 
