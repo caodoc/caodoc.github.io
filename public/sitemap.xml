@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://caodoc.is-a.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/lab/</loc>
+    <loc>http://localhost:1313/lab/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/lab/tic-tac-toe/</loc>
+    <loc>http://localhost:1313/lab/tic-tac-toe/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/lab/tra-cuu-diem-thi-thpt-2024/</loc>
+    <loc>http://localhost:1313/lab/tra-cuu-diem-thi-thpt-2024/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/github-unwrapped-2023/</loc>
+    <loc>http://localhost:1313/note/github-unwrapped-2023/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/</loc>
+    <loc>http://localhost:1313/note/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/reimu-from-touhou/</loc>
+    <loc>http://localhost:1313/note/reimu-from-touhou/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/website-older-versions/</loc>
+    <loc>http://localhost:1313/note/website-older-versions/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/setup-oh-my-posh-on-windows/</loc>
+    <loc>http://localhost:1313/note/setup-oh-my-posh-on-windows/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/note/my-pc-configuration/</loc>
+    <loc>http://localhost:1313/note/my-pc-configuration/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caodoc.is-a.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://caodoc.is-a.dev/config/</loc>
+    <loc>http://localhost:1313/config/</loc>
   </url><url>
-    <loc>https://caodoc.is-a.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
