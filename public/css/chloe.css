@@ -7,11 +7,10 @@
 
 body
 {
-    min-height: 100vh;
     background-color: var(--bg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
     background-image: none;
     color: var(--fg);
 }
