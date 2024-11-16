@@ -40,5 +40,3 @@ async function getUserRepositoryInfo()
         console.error(error.message);
     }
 }
-
-getUserRepositoryInfo();

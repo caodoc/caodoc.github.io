@@ -1,16 +1,19 @@
 +++
-title = "Settings"
+title = "Config"
 +++
 
+> Modify the settings below to customize this page.
+
+## Settings
 {{< settings >}}
 
-# Assets
+## Assets
 
 + Avatar by [花铭](https://www.pixiv.net/en/users/70483399) on pixiv.
 + Animated background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
 
-# Page
+## Page
 + Hosting on [GitHub](https://pages.github.com).
 + Domain registered at: [is-a.dev](https://is-a.dev) (free).
 + Static site generator: [hugo](https://gohugo.io).

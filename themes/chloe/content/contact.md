@@ -2,6 +2,8 @@
 title = "Contact"
 +++
 
+> You can find me on the following platforms.
+
 ## GitHub: [caodoc](https://github.com/caodoc)
 
 ## Social Media
@@ -13,4 +15,7 @@ title = "Contact"
 + [HackerRank](https://www.hackerrank.com/profile/caodoc)
 
 ## Games
-+ Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929)
+|       |       |
+|-------|-------|
+| Steam | [Chloe](https://steamcommunity.com/profiles/76561199134046194)
+| osu!  | [Spacer Wellerman](https://osu.ppy.sh/users/21126929)
