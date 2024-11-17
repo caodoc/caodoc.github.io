@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caodoc.is-a.dev/</loc>
-    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/2024-winter-update/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caodoc.is-a.dev/note/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caodoc.is-a.dev/lab/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
@@ -15,9 +21,6 @@
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caodoc.is-a.dev/note/github-unwrapped-2023/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://caodoc.is-a.dev/note/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caodoc.is-a.dev/note/reimu-from-touhou/</loc>

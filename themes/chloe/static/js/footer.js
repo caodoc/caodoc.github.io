@@ -1,5 +1,5 @@
 document.getElementById("page-footer-content-secret").addEventListener("click", () => {
-    window.location.href = "/assets/secret.png";
+    window.open("/assets/secret.webp", '_blank').focus();
 });
 
 /* Old Page Footer with theme button */
