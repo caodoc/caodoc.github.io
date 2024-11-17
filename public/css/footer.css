@@ -1,6 +1,32 @@
 .page-footer
 {
     width: 100%;
+    color: var(--off-fg);
+}
+
+.page-footer-content
+{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.page-footer-content img
+{
+    width: 105.6px;
+    height: 37.2px;
+}
+
+#page-footer-content-secret
+{
+    cursor: default;
+}
+
+/* Old Page Footer with theme button */
+/*
+.page-footer
+{
+    width: 100%;
     display: flex;
     flex-direction: column;
     color: var(--off-fg);
@@ -17,3 +43,4 @@
     flex-direction: row;
     justify-content: space-between;
 }
+*/

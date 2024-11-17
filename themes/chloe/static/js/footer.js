@@ -1,3 +1,9 @@
+document.getElementById("page-footer-content-secret").addEventListener("click", () => {
+    window.location.href = "/assets/secret.png";
+});
+
+/* Old Page Footer with theme button */
+/*
 const currentTheme = document.getElementById("current-theme");
 
 function themeLoad()
@@ -25,3 +31,4 @@ currentTheme.addEventListener("click", () => {
     else localStorage.setItem("isTheme", "Dark");
     currentTheme.textContent = localStorage.getItem("isTheme");
 });
+*/

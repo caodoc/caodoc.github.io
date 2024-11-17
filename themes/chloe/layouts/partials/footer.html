@@ -1,9 +1,20 @@
 {{ with .Site.Params.About }}
 
+<div class="page-footer-content">
+    <img id="page-footer-content-secret" src="/assets/caodoc-webring.png">
+    <a href="https://www.youtube.com/playlist?list=PLRBp0Fe2Gpgn8Y9qI-p0aTxVtw8onBSFj">
+        <img src="/assets/ncs.gif">
+    </a>
+</div>
+
+<!-- Old Page Footer with theme button -->
+<!--
 <p class="copyright">
     <text> <a href="{{ .Source }}">{{ .Author }}</a> </text>
     <text> <a id="current-theme" href=""> </a> </text>
 </p>
+-->
 
 <script type="module" src="/js/footer.js"> </script>
+
 {{ end }}
