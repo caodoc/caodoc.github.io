@@ -2,7 +2,7 @@
 title = "Config"
 +++
 
-> Modify the settings below to customize this page.
+> Page's configurations & assets.
 
 ## Settings
 {{< settings >}}

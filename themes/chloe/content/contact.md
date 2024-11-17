@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-> You can find me on the following platforms.
+> Places to find me.
 
 ## GitHub: [caodoc](https://github.com/caodoc)
 
