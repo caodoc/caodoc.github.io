@@ -8,7 +8,7 @@ title = "Config"
 {{< settings >}}
 
 ## Assets
-+ [> caodo.c <](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) webrings are made by me. You can use it anywhere as long as you give credit to me.
++ I made [caodoc](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) buttons, other were taken from [here](https://cyber.dabamos.de/88x31/).
 + Avatar by [花铭](https://www.pixiv.net/en/users/70483399) on pixiv.
 + Animated background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).

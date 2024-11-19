@@ -1,8 +1,18 @@
+function themeLoad()
+{
+    var link = document.createElement("link");
+    link.type = "text/css";
+    link.rel = "stylesheet";
+    if (localStorage.getItem("isTheme") === "Dark") link.href = `${window.location.origin}/css/palettes/mocha.css`;
+    else link.href = `${window.location.origin}/css/palettes/base16-light.css`;
+    document.head.appendChild(link);
+}
+
 function backgroundImageLoad()
 {
     if (localStorage.getItem("isBackgroundImage") === "Yes")
     {
-        document.body.style.backgroundImage = `url('${window.location.origin}/media/animated-background.webp')`;
+        document.body.style.backgroundImage = `url('${window.location.origin}/assets/animated-background.webp')`;
     }
     else
     {
@@ -16,7 +26,13 @@ if (!localStorage.getItem("isBackgroundImage"))
     localStorage.setItem("isBackgroundImage", "No");
 }
 
+if (!localStorage.getItem("isTheme"))
+{
+    localStorage.setItem("isTheme", "Dark");
+}
+
 backgroundImageLoad();
+themeLoad();
 
 const welcomeText = [
     "Xin chào",
@@ -41,18 +57,21 @@ const welcomeText = [
     "Hej"
 ];
 
-document.getElementById("welcomeTextBody").innerText = welcomeText[0] + "! ";
-
-var pos = 0, i = 1;
-
-function welcomeTextAnimation()
+if (window.location.href === window.location.origin)
 {
-    setInterval(function() {
-        pos = i % 20;
-        console.log(pos, welcomeText[pos]);
-        document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\! `;
-        i++;
-    }, 1500)
-}
+    document.getElementById("welcomeTextBody").innerText = welcomeText[0] + "! ";
 
-welcomeTextAnimation();
+    var pos = 0, i = 1;
+
+    function welcomeTextAnimation()
+    {
+        setInterval(function() {
+            pos = i % 20;
+            console.log(pos, welcomeText[pos]);
+            document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\! `;
+            i++;
+        }, 1500)
+    }
+
+    welcomeTextAnimation();
+}

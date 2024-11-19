@@ -41,23 +41,25 @@
 
         <link rel="canonical" href="https://caodoc.is-a.dev">
 
-        <link rel="icon" type="image/png" sizes="16x16" href="{{ "/logo/favicon-16px.png" | absURL }}">
-        <link rel="icon" type="image/png" sizes="32x32" href="{{ "/logo/favicon-32px.png" | absURL }}">
-        <link rel="apple-touch-icon" sizes="192x192" href="{{ "/logo/favicon-192px.png" | absURL }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon/favicon-16px.png" | absURL }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon/favicon-32px.png" | absURL }}">
+        <link rel="apple-touch-icon" sizes="192x192" href="{{ "/favicon/favicon-192px.png" | absURL }}">
 
         <link rel="stylesheet" href="{{ printf "css/palettes/%s.css" (.Site.Params.Theme.Palette | default "tokyo-night-dark") | absURL }}">
         <link rel="stylesheet" href="{{ "css/404.css" | absURL }}">
     </head>
 
     <body>
-        <h1> Page Not Found! </h1>
+        <h1> PAGE NOT FOUND! </h1>
 
-        <img src="/media/404NotFound.png">
+        <img src="/assets/404NotFound.webp">
 
         <div>
             <p> It seems like you got lost after accessing this URL. </p>
             <p> Click <a href="/"> here</a> to return to the main page. </p>
-            <p> Or you can click on this not very suspicious Youtube <a href="https://www.youtube.com/playlist?list=PLRBp0Fe2Gpgn8Y9qI-p0aTxVtw8onBSFj"> link</a>. </p>
+            <p> Or you can click on this not very suspicious Youtube <a href="https://www.youtube.com/watch?v=9iwjnN0Xqq0"> link</a>. </p>
         </div>
+
+        <script src="/js/404.js"> </script>
     </body>
 </html>
