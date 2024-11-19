@@ -4,9 +4,8 @@ title = "Contact"
 
 > Places to find me.
 
-## GitHub: [caodoc](https://github.com/caodoc)
-
-## Social Media
+## Primary
++ [caodoc](https://github.com/caodoc)
 + Discord: [caodoc](https://discord.com/users/800173074166710282)
 
 ## Coding Platforms
