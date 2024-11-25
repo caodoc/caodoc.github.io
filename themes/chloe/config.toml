@@ -1,4 +1,4 @@
-# Default
+# Configuration
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 
@@ -17,7 +17,7 @@ imageURL = "/assets/preview.png"
 themeColor = "#000000"
 palette = "mocha"
 
-# Head Menu
+# Header Menu
 [menu]
     [[menu.main]]
         identifier = "config"

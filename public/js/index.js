@@ -59,7 +59,7 @@ const welcomeText = [
 
 console.log(window.location.href);
 
-if (window.location.href === "https://caodoc.is-a.dev" || window.location.href === "http://localhost:1313/")
+if (window.location.href === "https://caodoc.is-a.dev/" || window.location.href === "http://localhost:1313/")
 {
     document.getElementById("welcomeTextBody").innerText = welcomeText[0] + "! ";
 

@@ -17,4 +17,4 @@ title = "Contact"
 |       |       |
 |-------|-------|
 | Steam | [Chloe](https://steamcommunity.com/profiles/76561199134046194)
-| osu!  | [Spacer Wellerman](https://osu.ppy.sh/users/21126929)
+| osu!  | [Spacer Wellerman](https://osu.ppy.sh/users/21126929) (skin: [Shiro Seijo](https://osu.ppy.sh/community/forums/topics/1525944?n=1))
