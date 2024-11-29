@@ -33,7 +33,7 @@
 
 
 
-<title> Tra Cứu Điểm Thi THPT 2024 &ndash; caodoc </title>
+<title> About &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -54,7 +54,7 @@
         
         
         <li class="main-nav-list">
-            <a class="main-nav-item" href="https://caodoc.is-a.dev/about/" title=""> about </a>
+            <a class="main-nav-item active" href="https://caodoc.is-a.dev/about/" title=""> about </a>
         </li>
         
         <li class="main-nav-list">
@@ -78,88 +78,110 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Tra cứu điểm thi THPT 2024</h1>
+        <h1>About</h1>
     </header>
     
     <div class="content-body">
-        <ul>
-<li>File thông tin được lấy từ <a href="https://github.com/anhdung98/diem_thi_2024/">github.com/anhdung98/diem_thi_2024</a>.</li>
-<li>Số báo danh chỉ bao gồm 8 số.</li>
-</ul>
-<blockquote>
-<p>API có thể sẽ không online 24/7, nếu không tra cứu được thì hãy thử lại sau một thời gian.</p>
+        <blockquote>
+<p>A little bit of myself.</p>
 </blockquote>
-<h2> Nhập số báo danh: </h2>
+<div id="about-content-container">
+    <h2> Quick facts about me </h2>
+    <div id="about-content-header" class="about-content">
+        <div id="about-content-header-left">
+            <p> Hello, my name is <b>Cao Do Chi</b>, you can call me <b>Cao</b> or <b>caodoc</b>. </p>
+            <p> I'm currently a freshman at <a href="https://hcmus.edu.vn/" target="_blank"><b>VNUHCM - University of Science</b></a>, studying in the <b>Faculty of Information Technology</b>. </p>
+            <p> Being dedicated to technology, I'm seeking to expand my knowledge and skills to stay at the forefront of innovation and problem-solving. </p>
+        </div>
+        <div id="about-content-header-right">
+            <img id="about-content-header-img" src="/assets/me.png">
+        </div>
+    </div>
+    <div id="about-content-body">
+        <h2> Here are things I know </h2>
+        <div id="about-content-skill">
+            <p> I'm decent at: </p>
+            <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++, Python">
+            <p>  </p>
+            <p> Also some knowledge of front-end development: </p>
+            <img src="https://skillicons.dev/icons?i=html,css,js" alt = "HTML, CSS, JavaScript">
+            <p>  </p>
+        </div>
 
-</br>
+        <h2> Where I studied </h2>
+        <div id="about-content-edu">
+            <ol>
+                <div>
+                    <li class="about-content-edu-header"> <b> Viet Nam National University Ho Chi Minh City - University of Science </b> </li>
+                    <text class="about-content-edu-time"> 2024 - now </text>
+                    <br/>
+                    <text> <i> Bachelor of Science in Information Technology </i> </text>
+                </div>
+                <hr>
+                <div>
+                    <li class="about-content-edu-header"> <b> Nguyen Quang Dieu High School for The Gifted </b> </li>
+                    <text class="about-content-edu-time"> 2021 - 2024 </text>
+                    <br/>
+                    <text> <i> Specialized in Math </i> </text>
+                </div>
+            </ol>
+        </div>
 
-<div id="tcdt-container">
-    <textarea id="tcdt-sbd" placeholder="Nhập số báo danh tại đây" autofocus></textarea>
-    <button id="tcdt-submit"> Tra cứu </button>
+        <h2> Where to find me </h2>
+        I'm most likely online on Discord with the username <a href="https://discord.com/users/800173074166710282">caodoc</a>, more ways to contact me are available on the <a href="/contact">contact page</a>.
+    </div>
 </div>
 
-<div id="tcdt-error-display"></div>
-
-<h2> Thông tin số báo danh đã tra cứu: </h2>
-
-<div id="tcdt-result"></div>
-
 <style>
-    #tcdt-container
+    .about-content
     {
+        width: 100%;
         display: flex;
-        gap: 10px;
+        flex-direction: row;
     }
 
-    #tcdt-result
+    #about-content-header-left
     {
-        display: flex;
-        gap: 20px;
+        flex: 6;
     }
 
-    #tcdt-sbd
+    #about-content-header-right
     {
-        width: 200px;
-        padding: 7.5px 0px 0px 7.5px;
-        background-color: transparent;
-        border-radius: 5px;
-        color: var(--fg);
+        flex: 4;
     }
 
-    #tcdt-sbd::placeholder
+    #about-content-header-img
     {
-        color: var(--fg);
+        width: 100%;
+        border-style: solid;
+        border-width: 1px;
+        border-color: var(--logo);
     }
 
-    #tcdt-submit
+    .about-content-edu-time
     {
-        max-width: max-content;
-        padding: 0px 10px 0px 10px;
-        display: inline-block;
-        background-color: var(--muted);
-        border: none;
-        border-radius: 5px;
-        color: var(--fg);
+        color: var(--muted);
     }
 
-    #tcdt-submit:hover
+    @media (max-width: 45rem)
     {
-        cursor: pointer;
-    }
+        .about-content
+        {
+            flex-direction: column;
+        }
+        
+        #about-content-header-right
+        {
+            display: flex;
+            justify-content: center;
+        }
 
-    #tcdt-result
-    {
-        display: flex;
-        flex-direction: column;
-    }
-
-    text
-    {
-        display: inline-block;
+        #about-content-header-img
+        {
+            width: 50%;
+        }
     }
 </style>
-    
-<script src="/js/tra-cuu-diem-thi.js"> </script>
 
     </div>
     <footer class="content-footer"></footer>

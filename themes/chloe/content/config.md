@@ -2,7 +2,7 @@
 title = "Config"
 +++
 
-> Page's configurations & assets.
+> Settings & Credits.
 
 ## Settings
 {{< settings >}}

@@ -2,7 +2,9 @@
 title = "Contact"
 +++
 
-> Places to find me.
+> Where to find me.
+
+> ⚠️ **Other accounts with this username may not be me, proceed with caution.**
 
 ## Primary
 + GitHub: [caodoc](https://github.com/caodoc)
