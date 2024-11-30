@@ -2,8 +2,8 @@
 
 {{< indexHello >}}
 
-^ Use the menu to navigate the site ^.
+^ Use the menu above to navigate the site ^.
 
-*This part of the website is still under heavy construction.*
+*This part of the website is still under construction.*
 
 {{< indexZ >}}

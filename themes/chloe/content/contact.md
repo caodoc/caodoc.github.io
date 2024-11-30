@@ -14,9 +14,3 @@ title = "Contact"
 + [Codeforces](https://codeforces.com/profile/caodoc)
 + [LeetCode](https://leetcode.com/u/caodoc/)
 + [HackerRank](https://www.hackerrank.com/profile/caodoc)
-
-## Games
-|       |       |
-|-------|-------|
-| Steam | [Chloe](https://steamcommunity.com/profiles/76561199134046194)
-| osu!  | [Spacer Wellerman](https://osu.ppy.sh/users/21126929) (skin: [Shiro Seijo](https://osu.ppy.sh/community/forums/topics/1525944?n=1))
