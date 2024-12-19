@@ -8,7 +8,7 @@ title = "Contact"
 
 ## Primary
 + GitHub: [caodoc](https://github.com/caodoc)
-+ Discord: [caodoc](https://discord.com/users/800173074166710282)
++ Email: [caodoc@proton.me](mailto:caodoc@proton.me)
 
 ## Coding Platforms
 + [Codeforces](https://codeforces.com/profile/caodoc)
