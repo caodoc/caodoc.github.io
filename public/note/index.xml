@@ -6,8 +6,15 @@
     <description>Recent content in Note on caodoc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Wrapped 2024</title>
+      <link>http://localhost:1313/note/github-wrapped-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/note/github-wrapped-2024/</guid>
+      <description>&lt;h2 id=&#34;my-github-wrapped-2024&#34;&gt;My GitHub Wrapped 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://git-wrapped.com/profiles/caodoc&#34;&gt;&lt;img src=&#34;http://localhost:1313/media/git-wrapped-caodoc-2024.png&#34; alt=&#34;GitHub Wrapped 2024&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-i-feel&#34;&gt;How I feel&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This year GitHub Warpped looks more minimal than last year&amp;rsquo;s website. I like the new design.&lt;/li&gt;&#xA;&lt;li&gt;The results are not too bad tho. I&amp;rsquo;m happy with my progress this year.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>A little update about me (Winter 2024)</title>
       <link>http://localhost:1313/note/2024-winter-update/</link>

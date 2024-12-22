@@ -14,3 +14,6 @@ title = "Contact"
 + [Codeforces](https://codeforces.com/profile/caodoc)
 + [LeetCode](https://leetcode.com/u/caodoc/)
 + [HackerRank](https://www.hackerrank.com/profile/caodoc)
+
+## Other Communities
++ [daily.dev](https://app.daily.dev/caodoc)

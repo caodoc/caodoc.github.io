@@ -13,6 +13,7 @@ title = "Config"
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
 + I made [caodoc](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) buttons, other were taken from [here](https://cyber.dabamos.de/88x31/).
 + Language icons from [skillicons.dev](https://skillicons.dev/).
++ Anime girl spinning pen by [asahi](https://imgur.com/asahi-wKjtZg3) on Imgur.
 
 ## Page
 + Hosting on [GitHub](https://pages.github.com).
