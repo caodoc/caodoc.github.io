@@ -1,3 +1,5 @@
+const API_URL = "MISSING_API_URL";
+
 document.getElementById("tcdt-submit").addEventListener("click", () => {
     var tcdt_space = "&nbsp;&nbsp;&nbsp;";
     let tcdt_sbd = document.getElementById("tcdt-sbd").value.replace(/ /g,"");
@@ -5,7 +7,7 @@ document.getElementById("tcdt-submit").addEventListener("click", () => {
     if (tcdt_sbd === "") document.getElementById("tcdt-error-display").innerText = "Bạn chưa nhập số báo danh!";
     else
     {
-        fetch(`https://caodoc-api.exozy.me/thpt?sbd=${tcdt_sbd}`)
+        fetch(`${API_URL}thpt?sbd=${tcdt_sbd}`)
             .then(response => {
                 if (response.status === 200) return response.json();
                 else if (response.status === 404)

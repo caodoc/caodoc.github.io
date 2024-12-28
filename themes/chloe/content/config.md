@@ -8,12 +8,12 @@ title = "Config"
 {{< settings >}}
 
 ## Assets
-+ Avatar by [花铭](https://www.pixiv.net/en/users/70483399) on pixiv.
++ GitHub's avatar by [花铭](https://www.pixiv.net/en/users/70483399) on pixiv.
++ [./about](/about) image by [asahi](https://imgur.com/asahi-wKjtZg3).
 + Animated background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
-+ I made [caodoc](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) buttons, other were taken from [here](https://cyber.dabamos.de/88x31/).
-+ Language icons from [skillicons.dev](https://skillicons.dev/).
-+ Anime girl spinning pen by [asahi](https://imgur.com/asahi-wKjtZg3) on Imgur.
++ I made [caodoc](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) buttons, the other one was taken from [here](https://cyber.dabamos.de/88x31/).
++ Language icons from [xandemon.github.io/developer-icons](https://xandemon.github.io/developer-icons/).
 
 ## Page
 + Hosting on [GitHub](https://pages.github.com).

@@ -57,7 +57,7 @@ const welcomeText = [
     "Hej"
 ];
 
-console.log(window.location.href);
+//console.log(window.location.href);
 
 if (window.location.href === "https://caodoc.is-a.dev/" || window.location.href === "http://localhost:1313/")
 {
@@ -69,7 +69,7 @@ if (window.location.href === "https://caodoc.is-a.dev/" || window.location.href 
     {
         setInterval(function() {
             pos = i % 20;
-            console.log(pos, welcomeText[pos]);
+            //console.log(pos, welcomeText[pos]);
             document.getElementById("welcomeTextBody").innerText = `${welcomeText[pos]}\! `;
             i++;
         }, 1500)

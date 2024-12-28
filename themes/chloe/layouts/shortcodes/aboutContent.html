@@ -7,22 +7,25 @@
         <h2> Quick facts about me </h2>
         <div id="about-content-header" class="about-content">
             <div id="about-content-header-left">
-                <p> Hello, my name is <b>Cao Do Chi</b>, you can call me <b>Cao</b> or <b>caodoc</b>. </p>
+                <p> Hello, I prefer not to tell you my real name, but you can call me <b>caodoc</b>. </p>
                 <p> I'm currently a freshman at <a href="https://hcmus.edu.vn/" target="_blank"><b>VNUHCM - University of Science</b></a>, studying in the <b>Faculty of Information Technology</b>. </p>
                 <p> I love exploring and learning new technologies. </p>
             </div>
             <div id="about-content-header-right">
-                <img id="about-content-header-img" src="/assets/me.png">
+                <img id="about-content-header-img" src="/assets/asahi.gif">
             </div>
         </div>
         <div id="about-content-body">
             <h2> Here are things I know </h2>
             <div id="about-content-skill">
                 <p> I'm decent at: </p>
-                <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++, Python">
+                <img class="about-content-body-img" src="/assets/developer-icons/c-plus-plus.svg" alt="C++">
+                <img class="about-content-body-img" src="/assets/developer-icons/python.svg" alt="Python">
                 <p>  </p>
-                <p> Also some knowledge of front-end development: </p>
-                <img src="https://skillicons.dev/icons?i=html,css,js" alt = "HTML, CSS, JavaScript">
+                <p> I also have some knowledge of front-end development: </p>
+                <img class="about-content-body-img" src="/assets/developer-icons/html5.svg" alt="HTML5">
+                <img class="about-content-body-img" src="/assets/developer-icons/css3.svg" alt="CSS3">
+                <img class="about-content-body-img" src="/assets/developer-icons/javascript.svg" alt="JavaScript">
                 <p>  </p>
             </div>
 
@@ -54,33 +57,36 @@
         <h2> Sơ lược </h2>
         <div id="about-content-header" class="about-content">
             <div id="about-content-header-left">
-                <p> Chào bạn, mình là <b>Đỗ Chí Cao</b>, nhưng bạn có thể gọi mình là <b>Cao</b> hoặc <b>caodoc</b>. </p>
+                <p> Chào bạn, mình không tiện nói tên thật, nhưng bạn có thể gọi mình là <b>caodoc</b>. </p>
                 <p> Mình hiện đang là sinh viên năm nhất tại <a href="https://hcmus.edu.vn/" target="_blank"><b>Trường Đại học Khoa học Tự Nhiên - ĐHQG Tp.HCM</b></a>, khoa <b>Công Nghệ Thông Tin</b>. </p>
-                <p> Mình thích khám phá và tìm hiểu các công nghệ mới. </p>
+                <p> Mình thích tìm hiểu các công nghệ mới. </p>
             </div>
             <div id="about-content-header-right">
-                <img id="about-content-header-img" src="/assets/me.png">
+                <img id="about-content-header-img" src="/assets/asahi.gif">
             </div>
         </div>
         <div id="about-content-body">
             <h2> Đây là những gì mình biết </h2>
             <div id="about-content-skill">
-                <p> Mình code được: </p>
-                <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++, Python">
+                <p> Mình có một chút kiến thức về: </p>
+                <img class="about-content-body-img" src="/assets/developer-icons/c-plus-plus.svg" alt="C++">
+                <img class="about-content-body-img" src="/assets/developer-icons/python.svg" alt="Python">
                 <p>  </p>
-                <p> Và một chút front-end: </p>
-                <img src="https://skillicons.dev/icons?i=html,css,js" alt = "HTML, CSS, JavaScript">
+                <p> Và cũng đang tìm hiểu thêm về front-end: </p>
+                <img class="about-content-body-img" src="/assets/developer-icons/html5.svg" alt="HTML5">
+                <img class="about-content-body-img" src="/assets/developer-icons/css3.svg" alt="CSS3">
+                <img class="about-content-body-img" src="/assets/developer-icons/javascript.svg" alt="JavaScript">
                 <p>  </p>
             </div>
 
-            <h2> Học vấn </h2>
+            <h2> Trình độ học vấn </h2>
             <div id="about-content-edu">
                 <ol>
                     <div>
                         <li class="about-content-edu-header"> <b> Trường Đại học Khoa học Tự Nhiên - ĐHQG Tp.HCM </b> </li>
                         <text class="about-content-edu-time"> 2024 - hiện tại </text>
                         <br/>
-                        <text> <i> Khoa Công nghệ Thông tin </i> </text>
+                        <text> <i> Bậc Cử Nhân - Khoa Công nghệ Thông tin </i> </text>
                     </div>
                     <hr>
                     <div>
@@ -121,8 +127,14 @@
     {
         width: 100%;
         border-style: solid;
-        border-width: 1px;
+        border-width: 2px;
         border-color: var(--logo);
+    }
+
+    .about-content-body-img
+    {
+        width: 5vh;
+        height: 5vh;
     }
 
     .about-content-edu-time
