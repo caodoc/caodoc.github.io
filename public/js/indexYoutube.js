@@ -39,7 +39,6 @@ function fetchYouTubeData()
 
     indexYoutube.innerHTML =
     `<p><a href="${chosenLink}">${chosenTitle}</a></p>
-    <img id="indexYoutube-content-img" src="${thumbnail}">
     `;
 }
 
