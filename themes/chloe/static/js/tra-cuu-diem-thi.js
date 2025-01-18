@@ -1,4 +1,4 @@
-const API_URL = "MISSING_API_URL";
+const API_URL = "https://api-7vkr.onrender.com/";
 
 document.getElementById("tcdt-submit").addEventListener("click", () => {
     var tcdt_space = "&nbsp;&nbsp;&nbsp;";

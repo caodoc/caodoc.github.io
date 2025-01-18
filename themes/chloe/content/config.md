@@ -8,7 +8,7 @@ title = "Config"
 {{< settings >}}
 
 ## Assets
-+ GitHub's avatar by [花铭](https://www.pixiv.net/en/users/70483399) on pixiv.
++ GitHub's avatar by [popman3580](https://www.pixiv.net/en/users/4403712) on [pixiv](https://pixiv.net).
 + [./about](/about) image by [asahi](https://imgur.com/asahi-wKjtZg3).
 + Animated background by [WANEELLA](https://waneella.tumblr.com/).
 + [404NotFound.png](/media/404NotFound.png) from [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev/).
