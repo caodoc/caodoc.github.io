@@ -3,8 +3,7 @@ function themeLoad()
     var link = document.createElement("link");
     link.type = "text/css";
     link.rel = "stylesheet";
-    if (localStorage.getItem("isTheme") === "Dark") link.href = `${window.location.origin}/css/palettes/mocha.css`;
-    else link.href = `${window.location.origin}/css/palettes/base16-light.css`;
+    link.href = `${window.location.origin}/css/palettes/${localStorage.getItem("isTheme")}.css`;
     document.head.appendChild(link);
 }
 
@@ -26,9 +25,9 @@ if (!localStorage.getItem("isBackgroundImage"))
     localStorage.setItem("isBackgroundImage", "No");
 }
 
-if (!localStorage.getItem("isTheme"))
+if (!localStorage.getItem("isTheme") || localStorage.getItem("isTheme") === "Dark" || localStorage.getItem("isTheme") === "Light")
 {
-    localStorage.setItem("isTheme", "Dark");
+    localStorage.setItem("isTheme", "mocha");
 }
 
 backgroundImageLoad();

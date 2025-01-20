@@ -4,6 +4,7 @@
     padding: 0;
     font-weight: inherit;
     color: var(--bg);
+    transition: transform 0.5s ease;
 }
 
 .page-logo:before
@@ -17,6 +18,7 @@
     display: block;
     background: var(--logo);
     opacity: 0.90;
+    transition: transform 0.5s ease;
 }
 
 .page-logo-inner:before
@@ -29,6 +31,11 @@
 {
     content: "] $";
     color: var(--bg);
+}
+
+.page-logo-inner:hover
+{
+    transform: scale(1.2);
 }
 
 a.page-logo-inner:link, 
