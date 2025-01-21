@@ -1,8 +1,9 @@
-const themeChanger = document.getElementById("theme-changer");
 const backgroundImageText = document.getElementById("background-image-text");
 const lofiMode = document.getElementById("lofi-mode");
+const themeRandomButton = document.getElementById("random-theme-button");
 const darkThemeList  = ["mocha", "base16-dark", "gruvbox-dark", "windows-95", "tokyo-night-dark"];
 const lightThemeList = ["base16-light", "gruvbox-light", "windows-95-light", "tokyo-night-light"];
+const themeList = darkThemeList.concat(lightThemeList);
 
 function createThemeList(themeList, containerId)
 {
@@ -11,6 +12,8 @@ function createThemeList(themeList, containerId)
         const link = document.createElement("a");
         link.href = "";
         link.textContent = theme;
+
+        if (localStorage.getItem("isTheme") === theme) link.style.color = "var(--hover)";
 
         link.addEventListener("click", (event) => {
             event.preventDefault();
@@ -25,11 +28,20 @@ function createThemeList(themeList, containerId)
 
         if (themeCount < themeList.length - 1)
         {
-            const comma = document.createTextNode(', ');
+            const comma = document.createTextNode(", ");
             container.appendChild(comma);
         }
     });
 }
+
+createThemeList(darkThemeList, 'dark-theme-list');
+createThemeList(lightThemeList, 'light-theme-list');
+
+themeRandomButton.addEventListener("click", () => {
+    const randomTheme = themeList[Math.floor(Math.random() * themeList.length)];
+    localStorage.setItem("isTheme", randomTheme);
+    window.location.href = themeRandomButton.href;
+});
 
 backgroundImageText.textContent = localStorage.getItem("isBackgroundImage");
 backgroundImageText.addEventListener("click", () => {
@@ -38,11 +50,6 @@ backgroundImageText.addEventListener("click", () => {
     else localStorage.setItem("isBackgroundImage", "No");
     backgroundImageText.textContent = localStorage.getItem("isBackgroundImage");
 });
-
-createThemeList(darkThemeList, 'dark-theme-list');
-createThemeList(lightThemeList, 'light-theme-list');
-
-themeChanger.textContent = localStorage.getItem("isTheme");
 
 lofiMode.addEventListener("click", () => {
     var element = document.getElementsByClassName("page");

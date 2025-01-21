@@ -1,12 +1,15 @@
 # caodoc.github.io
 
+> [!IMPORTANT]
+> This project is licensed under the [MIT License](./LICENSE.txt).
+
 ## Preview
-### Main page
+1. Index:
 ![](./themes/chloe/static/assets/preview.png)
-### 404 page
+2. 404:
 ![](./themes/chloe/static/assets/404.jpeg)
 
-## Settings
+## Theme & Settings
 Visit [./config](https://caodoc.github.io/config) for more details.
 
 ## Assets
@@ -23,10 +26,4 @@ Visit [./config](https://caodoc.github.io/config) for more details.
 + Template: [risotto](https://github.com/joeroe/risotto) (personally modified by [me](https://github.com/caodoc)).
 + Static site generator: [hugo](https://gohugo.io).
 + Font: [Cascadia Code Mono](https://github.com/microsoft/cascadia-code).
-+ Theme color (base16):
-[catppuccin](https://github.com/catppuccin/catppuccin) (mocha)
-& [base16-light](/css/palettes/base16-light.css).
 + Source code available at [caodoc/caodoc.github.io](https://github.com/caodoc/caodoc.github.io).
-
-> [!IMPORTANT]
-> This project is licensed under the [MIT License](./LICENSE.txt).

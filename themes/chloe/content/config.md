@@ -4,7 +4,8 @@ title = "Config"
 
 > Settings & Credits.
 
-## Settings
+> 🧾 This work is licensed under the [MIT](https://github.com/caodoc/caodoc.github.io/blob/main/LICENSE.txt) License, the same as the license of the [original theme repository](https://github.com/joeroe/risotto/blob/main/LICENSE).
+
 {{< settings >}}
 
 ## Assets
@@ -21,7 +22,4 @@ title = "Config"
 + Template: [risotto](https://github.com/joeroe/risotto) (personally modified by [me](https://github.com/caodoc)).
 + Static site generator: [hugo](https://gohugo.io).
 + Font: [Cascadia Code Mono](https://github.com/microsoft/cascadia-code).
-+ Theme color (base16):
-[catppuccin](https://github.com/catppuccin/catppuccin) (mocha)
-& [base16-light](/css/palettes/base16-light.css).
 + Source code available at [caodoc/caodoc.github.io](https://github.com/caodoc/caodoc.github.io).
