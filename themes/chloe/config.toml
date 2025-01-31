@@ -2,9 +2,6 @@
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 
-[params]
-noindex = false
-
 [params.About]
 title = "caodoc"
 author = "caodoc"

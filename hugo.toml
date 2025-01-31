@@ -2,3 +2,33 @@ baseURL = "https://caodoc.is-a.dev"
 languageCode = "en-us"
 title = "caodoc"
 theme = "chloe"
+enableEmoji = true
+enableInlineShortcodes = true
+
+[params]
+    math = true
+    noindex = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+    
+[privacy]
+    [privacy.twitter]
+        disabled = false
+        enableDNT = true
+        simple = true
+
+    [privacy.instagram]
+        disabled = false
+        simple = true
+
+    [privacy.youtube]
+        disabled = false
+        privacyEnhanced = true
+
+[services]
+    [services.instagram]
+        disableInlineCSS = true
+
+    [services.twitter]
+        disableInlineCSS = true

@@ -33,7 +33,7 @@
 
 
 
-<title> Tra Cứu Điểm Thi THPT 2024 &ndash; caodoc </title>
+<title> Color Scheme &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -78,86 +78,118 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Tra cứu điểm thi THPT 2024</h1>
+        <h1>Color Scheme</h1>
     </header>
     
     <div class="content-body">
-        <ul>
-<li>File thông tin được lấy từ <a href="https://github.com/anhdung98/diem_thi_2024/">anhdung98/diem_thi_2024</a>.</li>
-<li>Số báo danh chỉ bao gồm 8 số.</li>
-<li>Khi tra cứu, vui lòng đợi khoảng 5-10 giây để kết quả hiển thị.</li>
-</ul>
-<h2> Nhập số báo danh: </h2>
-
-</br>
-
-<div id="tcdt-container">
-    <textarea id="tcdt-sbd" placeholder="Nhập số báo danh tại đây" autofocus></textarea>
-    <button id="tcdt-submit"> Tra cứu </button>
-</div>
-
-<div id="tcdt-error-display"></div>
-
-<h2> Thông tin số báo danh đã tra cứu: </h2>
-
-<div id="tcdt-result"></div>
-
-<style>
-    #tcdt-container
-    {
-        display: flex;
-        gap: 10px;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        gap: 20px;
-    }
-
-    #tcdt-sbd
-    {
-        width: 200px;
-        padding: 7.5px 0px 0px 7.5px;
-        background-color: transparent;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-sbd::placeholder
-    {
-        color: var(--fg);
-    }
-
-    #tcdt-submit
-    {
-        max-width: max-content;
-        padding: 0px 10px 0px 10px;
-        display: inline-block;
-        background-color: var(--muted);
-        border: none;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-submit:hover
-    {
-        cursor: pointer;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        flex-direction: column;
-    }
-
-    text
-    {
-        display: inline-block;
-    }
-</style>
-    
-<script src="/js/tra-cuu-diem-thi.js"> </script>
+        <table>
+  <thead>
+      <tr>
+          <th>Base</th>
+          <th>Default colour</th>
+          <th>Used for</th>
+          <th>Examples</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>00</td>
+          <td><span style="base00">Dark</span></td>
+          <td>Background</td>
+          <td>Page background</td>
+      </tr>
+      <tr>
+          <td>01</td>
+          <td><span class="base01">│</span></td>
+          <td>Alt. background</td>
+          <td>Content background</td>
+      </tr>
+      <tr>
+          <td>02</td>
+          <td><span class="base02">│</span></td>
+          <td>In-text backgrounds</td>
+          <td><code>&lt;pre&gt;</code>, <code>&lt;code&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;samp&gt;</code></td>
+      </tr>
+      <tr>
+          <td>03</td>
+          <td><span class="base03">│</span></td>
+          <td>Muted text</td>
+          <td><code>:before</code> &amp; <code>:marker</code> symbols</td>
+      </tr>
+      <tr>
+          <td>04</td>
+          <td><span class="base04">│</span></td>
+          <td>Alt. foreground</td>
+          <td>Aside text</td>
+      </tr>
+      <tr>
+          <td>05</td>
+          <td><span class="base05">│</span></td>
+          <td>Foreground</td>
+          <td>Content text</td>
+      </tr>
+      <tr>
+          <td>06</td>
+          <td><span class="base06">│</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>07</td>
+          <td><span class="base07">Light</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>08</td>
+          <td><span class="base08">Red</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>09</td>
+          <td><span class="base09">Orange</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>0A</td>
+          <td><span class="base0A">Yellow</span></td>
+          <td>Highlights</td>
+          <td>Selected text, <code>&lt;mark&gt;</code></td>
+      </tr>
+      <tr>
+          <td>0B</td>
+          <td><span class="base0B">Green</span></td>
+          <td>Primary accent</td>
+          <td>Logo</td>
+      </tr>
+      <tr>
+          <td>0C</td>
+          <td><span class="base0C">Cyan</span></td>
+          <td>Active links</td>
+          <td><code>a:active</code>, <code>a:hover</code></td>
+      </tr>
+      <tr>
+          <td>0D</td>
+          <td><span class="base0D">Blue</span></td>
+          <td>Links</td>
+          <td><code>a:link</code>, <code>a:visited</code></td>
+      </tr>
+      <tr>
+          <td>0E</td>
+          <td><span class="base0E">Magenta</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>0F</td>
+          <td><span class="base0F">Brown</span></td>
+          <td></td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
 
     </div>
     <footer class="content-footer"></footer>

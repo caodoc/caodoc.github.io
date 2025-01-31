@@ -33,7 +33,7 @@
 
 
 
-<title> Tra Cứu Điểm Thi THPT 2024 &ndash; caodoc </title>
+<title> Math Typesetting &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -78,87 +78,43 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Tra cứu điểm thi THPT 2024</h1>
+        <h1>Math Typesetting</h1>
     </header>
     
     <div class="content-body">
-        <ul>
-<li>File thông tin được lấy từ <a href="https://github.com/anhdung98/diem_thi_2024/">anhdung98/diem_thi_2024</a>.</li>
-<li>Số báo danh chỉ bao gồm 8 số.</li>
-<li>Khi tra cứu, vui lòng đợi khoảng 5-10 giây để kết quả hiển thị.</li>
+        <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
 </ul>
-<h2> Nhập số báo danh: </h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</span></span></code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
 
-</br>
 
-<div id="tcdt-container">
-    <textarea id="tcdt-sbd" placeholder="Nhập số báo danh tại đây" autofocus></textarea>
-    <button id="tcdt-submit"> Tra cứu </button>
-</div>
+<!-- KaTeX -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-<div id="tcdt-error-display"></div>
 
-<h2> Thông tin số báo danh đã tra cứu: </h2>
+<h3 id="examples">Examples</h3>
 
-<div id="tcdt-result"></div>
+<p>
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
+</p>
 
-<style>
-    #tcdt-container
-    {
-        display: flex;
-        gap: 10px;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        gap: 20px;
-    }
-
-    #tcdt-sbd
-    {
-        width: 200px;
-        padding: 7.5px 0px 0px 7.5px;
-        background-color: transparent;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-sbd::placeholder
-    {
-        color: var(--fg);
-    }
-
-    #tcdt-submit
-    {
-        max-width: max-content;
-        padding: 0px 10px 0px 10px;
-        display: inline-block;
-        background-color: var(--muted);
-        border: none;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-submit:hover
-    {
-        cursor: pointer;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        flex-direction: column;
-    }
-
-    text
-    {
-        display: inline-block;
-    }
-</style>
-    
-<script src="/js/tra-cuu-diem-thi.js"> </script>
-
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
     </div>
     <footer class="content-footer"></footer>
 

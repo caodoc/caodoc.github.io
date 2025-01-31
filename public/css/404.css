@@ -37,9 +37,20 @@ body
     font-size: 16px;
 }
 
+h1
+{
+	text-align: center;
+}
+
 img
 {
-	width: 20rem;
+	max-width: 20rem;
+	height: auto;
+}
+
+div
+{
+	text-align: center;
 }
 
 a:link, a:visited

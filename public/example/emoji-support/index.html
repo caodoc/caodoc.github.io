@@ -33,7 +33,7 @@
 
 
 
-<title> Tra Cứu Điểm Thi THPT 2024 &ndash; caodoc </title>
+<title> Emoji Support &ndash; caodoc </title>
 
 <link rel="canonical" href="https://caodoc.is-a.dev">
 
@@ -78,87 +78,35 @@
 
             <section class="page-body">
     <header class="content-header">
-        <h1>Tra cứu điểm thi THPT 2024</h1>
+        <h1>Emoji Support</h1>
     </header>
     
     <div class="content-body">
-        <ul>
-<li>File thông tin được lấy từ <a href="https://github.com/anhdung98/diem_thi_2024/">anhdung98/diem_thi_2024</a>.</li>
-<li>Số báo danh chỉ bao gồm 8 số.</li>
-<li>Khi tra cứu, vui lòng đợi khoảng 5-10 giây để kết quả hiển thị.</li>
-</ul>
-<h2> Nhập số báo danh: </h2>
-
-</br>
-
-<div id="tcdt-container">
-    <textarea id="tcdt-sbd" placeholder="Nhập số báo danh tại đây" autofocus></textarea>
-    <button id="tcdt-submit"> Tra cứu </button>
-</div>
-
-<div id="tcdt-error-display"></div>
-
-<h2> Thông tin số báo danh đã tra cứu: </h2>
-
-<div id="tcdt-result"></div>
+        <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
+</span></span><span style="display:flex;"><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
 
 <style>
-    #tcdt-container
-    {
-        display: flex;
-        gap: 10px;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        gap: 20px;
-    }
-
-    #tcdt-sbd
-    {
-        width: 200px;
-        padding: 7.5px 0px 0px 7.5px;
-        background-color: transparent;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-sbd::placeholder
-    {
-        color: var(--fg);
-    }
-
-    #tcdt-submit
-    {
-        max-width: max-content;
-        padding: 0px 10px 0px 10px;
-        display: inline-block;
-        background-color: var(--muted);
-        border: none;
-        border-radius: 5px;
-        color: var(--fg);
-    }
-
-    #tcdt-submit:hover
-    {
-        cursor: pointer;
-    }
-
-    #tcdt-result
-    {
-        display: flex;
-        flex-direction: column;
-    }
-
-    text
-    {
-        display: inline-block;
-    }
+.emojify {
+	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+	font-size: 2rem;
+	vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+  .nowrap {
+    display: block;
+    margin: 25px 0;
+  }
+}
 </style>
-    
-<script src="/js/tra-cuu-diem-thi.js"> </script>
-
     </div>
     <footer class="content-footer"></footer>
 

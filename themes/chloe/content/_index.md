@@ -1,6 +1,6 @@
 # Welcome
 
-{{< indexHello >}} Welcome to my website👋
+{{< indexHello >}} 👋
 
 {{< indexYoutube >}}
 
