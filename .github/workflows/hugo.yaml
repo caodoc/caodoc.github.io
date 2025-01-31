@@ -41,6 +41,8 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Cleanup Old Build
+        run: rm -rf public/*
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -50,11 +52,22 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Verify Build Output
+        run: |
+          if [ ! -d "public" ] || [ -z "$(ls -A public)" ]; then
+            echo "Public folder is empty!"
+            exit 1
+          fi
+      - name: Remove Symlinks
+        run: find public -type l -delete
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./public
+          retention-days: 1
+          if-no-files-found: error
+          compression-level: 9
 
   deploy:
     environment:
