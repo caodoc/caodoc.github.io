@@ -1,0 +1,819 @@
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\.hugo_build.lock
+\.caodoc\Dev\GitHub\caodoc.github.io\.hugo_build.lock
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\CNAME
+\.caodoc\Dev\GitHub\caodoc.github.io\CNAME
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\hardlink.ps1
+\.caodoc\Dev\GitHub\caodoc.github.io\hardlink.ps1
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\hugo.toml
+\.caodoc\Dev\GitHub\caodoc.github.io\hugo.toml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\LICENSE.txt
+\.caodoc\Dev\GitHub\caodoc.github.io\LICENSE.txt
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\output.txt
+\.caodoc\Dev\GitHub\caodoc.github.io\output.txt
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\README.md
+\.caodoc\Dev\GitHub\caodoc.github.io\README.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\symlink.ps1
+\.caodoc\Dev\GitHub\caodoc.github.io\symlink.ps1
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\symlinks.txt
+\.caodoc\Dev\GitHub\caodoc.github.io\symlinks.txt
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\artifact-v3.yaml
+\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\artifact-v3.yaml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\hugo.yaml
+\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\hugo.yaml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\archetypes\default.md
+\.caodoc\Dev\GitHub\caodoc.github.io\archetypes\default.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\404.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\404.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\sitemap.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\sitemap.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\LICENSE.txt
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\LICENSE.txt
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\medium.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\medium.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\README.md
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\README.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\script.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\script.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\small.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\small.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\Aller_Regular.ttf
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\Aller_Regular.ttf
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\default.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\default.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\discord.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\discord.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\github.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\github.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\NinoKawaii.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\NinoKawaii.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\osu.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\osu.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\web_logo.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\web_logo.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\LICENSE.txt
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\LICENSE.txt
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\medium.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\medium.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\README.md
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\README.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\script.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\script.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\small.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\small.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.com.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.com.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\codeforces.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\codeforces.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\contact.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\contact.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\default.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\default.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\discord.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\discord.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\github.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\github.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\image-icon.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\image-icon.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\markdown.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\markdown.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\Mio_Akiyama_Holding_C_Book.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\Mio_Akiyama_Holding_C_Book.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\NinoKawaii.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\NinoKawaii.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\osu!.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\osu!.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\parrot-working-on-laptop.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\parrot-working-on-laptop.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\projects.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\projects.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\restore.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\restore.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\web_logo.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\web_logo.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.well-known\discord
+\.caodoc\Dev\GitHub\caodoc.github.io\public\.well-known\discord
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\about\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\about\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404.jpeg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404.jpeg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\animated-background.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\animated-background.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\asahi.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\asahi.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\caodoc-webring.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\caodoc-webring.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\i-need-a-girl-by-lee.mp3
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\i-need-a-girl-by-lee.mp3
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\miku-approved.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\miku-approved.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\ncs.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\ncs.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\preview.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\preview.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\valid-any.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\valid-any.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\c-plus-plus.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\c-plus-plus.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\css3.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\css3.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\html5.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\html5.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\javascript.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\javascript.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\python.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\python.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\config\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\config\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\contact\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\contact\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\404.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\404.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\chloe.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\chloe.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\colours.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\colours.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\footer.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\footer.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\header.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\header.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\layout.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\layout.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\logo.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\logo.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\typography.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\typography.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\apprentice.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\apprentice.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\atelier-cave.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\atelier-cave.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\circus.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\circus.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\dracula.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\dracula.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\macchiato.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\macchiato.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\material.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\material.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\mocha.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\mocha.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tender.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tender.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95.css
+\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\color-scheme\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\color-scheme\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\emoji-support\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\emoji-support\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\markdown-rendering\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\markdown-rendering\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\math-typesetting\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\math-typesetting\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\placeholder-text\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\placeholder-text\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\rich-content\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\example\rich-content\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-16px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-16px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-192px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-192px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-32px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-32px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\font\CascadiaMonoPL.woff2
+\.caodoc\Dev\GitHub\caodoc.github.io\public\font\CascadiaMonoPL.woff2
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\404.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\404.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\aboutContentLanguage.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\aboutContentLanguage.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\footer.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\footer.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\github-statistic.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\github-statistic.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\index.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\index.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexYoutube.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexYoutube.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexZ.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexZ.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\settings.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\settings.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tic-tac-toe.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tic-tac-toe.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tra-cuu-diem-thi.js
+\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tra-cuu-diem-thi.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tic-tac-toe\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tic-tac-toe\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tra-cuu-diem-thi-thpt-2024\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tra-cuu-diem-thi-thpt-2024\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\2023-unwrapped-caodoc.mp4
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\2023-unwrapped-caodoc.mp4
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\funky.mov
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\funky.mov
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\git-wrapped-caodoc-2024.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\git-wrapped-caodoc-2024.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_8987.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_8987.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9001.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9001.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9002.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9002.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-dancing.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-dancing.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-eating.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-eating.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-hugging.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-hugging.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-the-test.mp4
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-the-test.mp4
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-winter.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-winter.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-wishing-you.png
+\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-wishing-you.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\2024-winter-update\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\2024-winter-update\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-unwrapped-2023\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-unwrapped-2023\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-wrapped-2024\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-wrapped-2024\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\my-pc-configuration\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\my-pc-configuration\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\reimu-from-touhou\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\reimu-from-touhou\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\setup-oh-my-posh-on-windows\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\setup-oh-my-posh-on-windows\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\website-older-versions\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\note\website-older-versions\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.xml
+\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.xml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\config.toml
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\config.toml
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\archetypes\default.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\archetypes\default.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\_index.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\_index.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\about.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\about.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\config.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\config.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\contact.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\contact.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\_index.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\_index.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\color-scheme.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\color-scheme.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\emoji-support.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\emoji-support.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\markdown-rendering.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\markdown-rendering.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\math-typesetting.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\math-typesetting.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\placeholder-text.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\placeholder-text.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\rich-content.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\rich-content.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\_index.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\_index.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tic-tac-toe.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tic-tac-toe.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tra-cuu-diem-thi-thpt-2024.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tra-cuu-diem-thi-thpt-2024.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\_index.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\_index.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\2024-winter-update.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\2024-winter-update.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-unwrapped-2023.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-unwrapped-2023.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-wrapped-2024.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-wrapped-2024.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\my-pc-configuration.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\my-pc-configuration.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\reimu-from-touhou.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\reimu-from-touhou.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\setup-oh-my-posh-on-windows.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\setup-oh-my-posh-on-windows.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\website-older-versions.md
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\website-older-versions.md
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\404.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\404.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\index.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\index.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\footer.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\footer.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\head.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\head.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\header.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\header.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\aboutContent.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\aboutContent.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-statistic.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-statistic.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexHello.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexHello.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexImg.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexImg.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexYoutube.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexYoutube.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexZ.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexZ.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\settings.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\settings.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tic-tac-toe.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tic-tac-toe.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tra-cuu-diem-thi.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tra-cuu-diem-thi.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\funky.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\funky.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\result.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\result.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\reimu\the-test.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\reimu\the-test.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\baseof.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\baseof.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\li.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\li.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\list.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\list.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\single.html
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\single.html
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404.jpeg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404.jpeg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\animated-background.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\animated-background.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\asahi.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\asahi.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\caodoc-webring.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\caodoc-webring.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\i-need-a-girl-by-lee.mp3
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\i-need-a-girl-by-lee.mp3
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\miku-approved.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\miku-approved.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\ncs.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\ncs.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\preview.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\preview.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\valid-any.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\valid-any.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.webp
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.webp
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\c-plus-plus.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\c-plus-plus.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\css3.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\css3.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\html5.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\html5.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\javascript.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\javascript.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\python.svg
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\python.svg
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\404.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\404.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\chloe.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\chloe.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\colours.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\colours.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\footer.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\footer.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\header.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\header.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\layout.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\layout.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\logo.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\logo.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\typography.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\typography.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\apprentice.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\apprentice.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\atelier-cave.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\atelier-cave.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\circus.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\circus.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\dracula.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\dracula.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\macchiato.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\macchiato.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\material.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\material.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\mocha.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\mocha.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tender.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tender.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-dark.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-dark.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95-light.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95-light.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95.css
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95.css
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-16px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-16px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-192px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-192px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-32px.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-32px.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\font\CascadiaMonoPL.woff2
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\font\CascadiaMonoPL.woff2
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\404.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\404.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\aboutContentLanguage.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\aboutContentLanguage.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\footer.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\footer.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\github-statistic.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\github-statistic.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\index.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\index.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexYoutube.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexYoutube.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexZ.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexZ.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\settings.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\settings.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tic-tac-toe.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tic-tac-toe.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tra-cuu-diem-thi.js
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tra-cuu-diem-thi.js
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\2023-unwrapped-caodoc.mp4
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\2023-unwrapped-caodoc.mp4
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\funky.mov
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\funky.mov
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\git-wrapped-caodoc-2024.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\git-wrapped-caodoc-2024.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_8987.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_8987.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9001.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9001.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9002.JPG
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9002.JPG
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-dancing.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-dancing.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-eating.gif
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-eating.gif
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-hugging.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-hugging.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-the-test.mp4
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-the-test.mp4
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-winter.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-winter.png
+-----------------------------------------
+Checking hardlinks for: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-wishing-you.png
+\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-wishing-you.png
+-----------------------------------------

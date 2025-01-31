@@ -1,0 +1,674 @@
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\archetypes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\.hugo_build.lock
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\CNAME
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\hardlink.ps1
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\hugo.toml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\LICENSE.txt
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\output.txt
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\README.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\symlink.ps1
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\artifact-v3.yaml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\.github\workflows\hugo.yaml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\archetypes\default.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.well-known
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\about
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\categories
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\config
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\contact
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\font
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\tags
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\404.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\sitemap.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\LICENSE.txt
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\medium.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\README.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\script.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\small.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\Aller_Regular.ttf
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\default.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\discord.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\github.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\NinoKawaii.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\osu.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\1.0\assets\web_logo.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\LICENSE.txt
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\medium.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\README.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\script.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\small.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.com.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\chess.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\codeforces.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\contact.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\default.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\discord.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\github.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\image-icon.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\markdown.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\Mio_Akiyama_Holding_C_Book.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\NinoKawaii.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\osu!.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\parrot-working-on-laptop.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\projects.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\restore.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.old\2.0\assets\web_logo.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\.well-known\discord
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\about\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404.jpeg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\404NotFound.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\animated-background.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\asahi.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\caodoc-webring.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\i-need-a-girl-by-lee.mp3
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\miku-approved.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\ncs.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\preview.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\secret.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\valid-any.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\.old\animated-background.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\c-plus-plus.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\css3.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\html5.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\javascript.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\assets\developer-icons\python.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\categories\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\config\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\contact\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\404.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\chloe.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\colours.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\footer.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\header.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\layout.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\logo.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\typography.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\apprentice.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\atelier-cave.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\base16-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\circus.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\dracula.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\gruvbox-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\macchiato.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\material.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\mocha.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\papercolor-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\solarized-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tender.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\tokyo-night-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\css\palettes\windows-95.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\color-scheme
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\emoji-support
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\markdown-rendering
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\math-typesetting
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\placeholder-text
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\rich-content
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\color-scheme\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\emoji-support\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\markdown-rendering\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\math-typesetting\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\placeholder-text\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\example\rich-content\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-16px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-192px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\favicon\favicon-32px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\font\CascadiaMonoPL.woff2
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\404.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\aboutContentLanguage.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\footer.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\github-statistic.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\index.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexYoutube.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\indexZ.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\settings.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tic-tac-toe.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\js\tra-cuu-diem-thi.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tic-tac-toe
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tra-cuu-diem-thi-thpt-2024
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tic-tac-toe\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\lab\tra-cuu-diem-thi-thpt-2024\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\2023-unwrapped-caodoc.mp4
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\funky.mov
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\git-wrapped-caodoc-2024.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_8987.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9001.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\IMG_9002.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-dancing.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-eating.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-hugging.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-the-test.mp4
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-winter.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\media\reimu-wishing-you.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\2024-winter-update
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-unwrapped-2023
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-wrapped-2024
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\my-pc-configuration
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\reimu-from-touhou
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\setup-oh-my-posh-on-windows
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\website-older-versions
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\2024-winter-update\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-unwrapped-2023\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\github-wrapped-2024\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\my-pc-configuration\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\reimu-from-touhou\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\setup-oh-my-posh-on-windows\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\note\website-older-versions\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\public\tags\index.xml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\archetypes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\config.toml
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\archetypes\default.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\_index.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\about.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\config.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\contact.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\_index.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\color-scheme.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\emoji-support.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\markdown-rendering.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\math-typesetting.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\placeholder-text.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\example\rich-content.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\_index.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tic-tac-toe.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\lab\tra-cuu-diem-thi-thpt-2024.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\_index.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\2024-winter-update.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-unwrapped-2023.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\github-wrapped-2024.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\my-pc-configuration.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\reimu-from-touhou.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\setup-oh-my-posh-on-windows.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\content\note\website-older-versions.md
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\404.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\index.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\footer.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\head.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\partials\header.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\reimu
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\aboutContent.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-statistic.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexHello.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexImg.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexYoutube.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\indexZ.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\settings.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tic-tac-toe.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\tra-cuu-diem-thi.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\funky.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\github-unwrapped-2023\result.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\shortcodes\reimu\the-test.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\baseof.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\li.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\list.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\layouts\_default\single.html
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\font
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404.jpeg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\404NotFound.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\animated-background.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\asahi.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\caodoc-webring.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\i-need-a-girl-by-lee.mp3
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\miku-approved.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\ncs.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\preview.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\secret.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\valid-any.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\.old\animated-background.webp
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\c-plus-plus.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\css3.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\html5.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\javascript.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\assets\developer-icons\python.svg
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\404.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\chloe.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\colours.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\footer.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\header.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\layout.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\logo.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\typography.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\apprentice.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\atelier-cave.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\base16-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\circus.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\dracula.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\gruvbox-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\macchiato.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\material.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\mocha.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\papercolor-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\solarized-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tender.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-dark.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\tokyo-night-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95-light.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\css\palettes\windows-95.css
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-16px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-192px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\favicon\favicon-32px.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\font\CascadiaMonoPL.woff2
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\404.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\aboutContentLanguage.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\footer.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\github-statistic.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\index.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexYoutube.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\indexZ.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\settings.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tic-tac-toe.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\js\tra-cuu-diem-thi.js
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\2023-unwrapped-caodoc.mp4
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\funky.mov
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\git-wrapped-caodoc-2024.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_8987.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9001.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\IMG_9002.JPG
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-dancing.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-eating.gif
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-hugging.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-the-test.mp4
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-winter.png
+-----------------------------------------
+Not a symlink: C:\.caodoc\Dev\GitHub\caodoc.github.io\themes\chloe\static\media\reimu-wishing-you.png
+-----------------------------------------
