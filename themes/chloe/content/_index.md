@@ -1,6 +1,6 @@
 # Welcome
 
-{{< indexHello >}} 👋
+{{< indexHello >}}
 
 {{< indexYoutube >}}
 

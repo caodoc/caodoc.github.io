@@ -18,6 +18,7 @@ title = "Config"
 + ***Programming language icons*** from [xandemon.github.io/developer-icons](https://xandemon.github.io/developer-icons/).
 + ***Lofi Type Beat*** is [I Need a Girl by Lee](https://www.youtube.com/watch?v=xVf4Zk8CBj0).
 + I made [caodoc](/assets/caodoc-webring.png) & [NCS](/assets/ncs.gif) buttons, the other one was taken from [here](https://cyber.dabamos.de/88x31/).
++ I can't find the source of ***Gura.gif***.
 
 ## Page
 + Hosting on [GitHub](https://pages.github.com).
