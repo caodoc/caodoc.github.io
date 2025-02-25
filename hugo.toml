@@ -13,7 +13,7 @@ enableInlineShortcodes = true
     unsafe = true
     
 [privacy]
-    [privacy.twitter]
+    [privacy.x]
         disabled = false
         enableDNT = true
         simple = true
@@ -30,5 +30,5 @@ enableInlineShortcodes = true
     [services.instagram]
         disableInlineCSS = true
 
-    [services.twitter]
+    [services.x]
         disableInlineCSS = true
