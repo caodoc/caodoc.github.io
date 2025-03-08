@@ -15,7 +15,7 @@ title = "Config"
 |----------------------------|--------|
 | GitHub's avatar            | [popman3580](https://www.pixiv.net/en/users/4403712) (pixiv).|
 | Anime girl spinning pen    | [asahi](https://imgur.com/asahi-wKjtZg3) (imgur). |
-| Animated background        | [WANEELLA](https://waneella.tumblr.com) (tumblr). |
+| Animated background        | [merrigo](https://merrigo.tumblr.com) (tumblr). |
 | 404NotFound.png            | [vtuberlogos.alfon.dev](https://vtuberlogos.alfon.dev). |
 | Programming language icons | [xandemon.github.io/developer-icons](https://xandemon.github.io/developer-icons). |
 | Lofi Type Beat | [I Need a Girl by Lee](https://www.youtube.com/watch?v=xVf4Zk8CBj0) (Youtube). |
