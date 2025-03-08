@@ -1,7 +1,10 @@
 +++
 title = "GitHub Unwrapped 2023"
-description = "My 2023 GitHub Unwrapped."
 date = "2023-12-25"
+description = "GitHub 2023 Unwrapped."
+tags = [
+    "github"
+]
 +++
 
 Created on [GitHub Unwrapped](https://githubunwrapped.com/), you can find anything related there.

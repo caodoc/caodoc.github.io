@@ -1,7 +1,10 @@
 +++
-title = "This website's older versions"
+title = "Versions"
 date = "2023-10-21"
 description = "This website's older versions."
+tags = [
+    "website"
+]
 +++
 
 ## 1.0:

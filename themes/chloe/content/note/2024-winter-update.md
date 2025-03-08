@@ -1,7 +1,10 @@
 +++
 title = "A little update about me (Winter 2024)"
-description = "TLDR: Got into my dream university, math is freaking hard, find a girlfriend (optional)."
 date = "2024-11-17"
+description = "TLDR: Got into my dream university, math is freaking hard, find a girlfriend (optional)."
+tags = [
+    "life"
+]
 +++
 
 > Cause, why not?
@@ -28,11 +31,8 @@ I’m still struggling with math, working on group projects and trying to make n
 - Have a girlfriend (optional, harder than math).
 
 ## Some photos
-![HCMUS](/media/IMG_9001.JPG)
+![HCMUS](/media/IMG_9001.webp)
 > My university
 
-![Faculty of Information Technology](/media/IMG_8987.JPG)
+![Faculty of Information Technology](/media/IMG_8987.webp)
 > Faculty of Information Technology
-
-![Landmark 81](/media/IMG_9002.JPG)
-> First time looking at Landmark 81

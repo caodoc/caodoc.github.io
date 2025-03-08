@@ -1,7 +1,10 @@
 +++
 title = "GitHub Wrapped 2024"
-description = "GitHub 2024 wrapped in a nutshell."
 date = "2024-12-22"
+description = "GitHub 2024 Wrapped In A Nutshell."
+tags = [
+    "github"
+]
 +++
 
 ## My GitHub Wrapped 2024
